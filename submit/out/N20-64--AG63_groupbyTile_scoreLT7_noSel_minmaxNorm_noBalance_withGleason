@@ -1,0 +1,2212 @@
+package importing successful
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M0_64__AG63.p
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M1_64__AG63.p
+Excluding hard-coded case strings:
+Data: 64808
+Before filtering: None
+Filtering out points where case is 03-161
+Filtered out 600 points
+
+Filtering out points where case is 08-6659
+Filtered out 600 points
+
+Filtering out points where case is 09-7198
+Filtered out 600 points
+
+Filtering out points where case is 10-8604
+Filtered out 600 points
+
+Filtering out points where case is 11-1997
+Filtered out 600 points
+
+Filtering out points where case is 11-2605
+Filtered out 600 points
+
+Filtering out points where case is 12-7319
+Filtered out 599 points
+
+Filtering out points where case is 12-7463
+Filtered out 600 points
+
+Filtering out points where case is 15-7629
+Filtered out 600 points
+
+Data: 59409
+After filtering: None
+Filtering out points where grade is SC
+Filtered out 1624 points
+
+Filtering out points where grade is NE
+Filtered out 500 points
+
+Using cases where score <= 7
+Data: 57285
+Before filtering: None
+Filtering out points where grade is 5
+Filtered out 340 points
+
+Filtering out points where grade is 5 5
+Filtered out 0 points
+
+Filtering out points where grade is 5+5
+Filtered out 22827 points
+
+Filtering out points where grade is 5+3
+Filtered out 1100 points
+
+Filtering out points where grade is 5_5
+Filtered out 220 points
+
+Filtering out points where grade is 5+4
+Filtered out 400 points
+
+Filtering out points where grade is 4+5
+Filtered out 8771 points
+
+Filtering out points where grade is 4+4
+Filtered out 10257 points
+
+Filtering out points where grade is 3,4+5
+Filtered out 300 points
+
+Filtering out points where grade is 3+4+5
+Filtered out 300 points
+
+Data: 12770
+After filtering: None
+Grouping tiles together by averaging
+length gathered = 639
+Creating new dataset from 639 tiles
+Returning unchanged feature set
+For normalization, built x: (639, 63)
+For normalization, built y: (639,)
+Scaling features to [0,1]
+Dataset.data[0] = (63,)
+Dataset cases: 
+03-133
+03-2404
+03-3635
+03-40083
+03-40161
+05-1701
+05-3047
+05-40269
+05-40491
+05-416
+06-140
+06-40427
+06-40703
+06-4175
+07-1292
+07-1376
+07-2369
+08-1364
+08-6431
+09-4120
+09-4281
+09-5023
+10-3726
+10-4887
+10-6382
+11-1395
+11-1404
+11-1724
+11-1887
+11-2260
+11-3796
+11-5999
+11-8638
+12-1763
+12-2190
+12-2338
+12-2672
+12-2869
+12-3640
+12-4104
+12-4317
+12-4699
+12-5063
+12-6050
+12-6537
+12-852
+Dataset grades: 
+3
+3+3
+3+4
+3+5
+4
+4+3
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (0)
+Holding out 03-133
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+03-133,1,0.785264516129,0.0752169131024,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (1)
+Holding out 03-2404
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+03-2404,1,0.814388294269,0.0524607938779,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (2)
+Holding out 03-3635
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+Appending Gleason score to features
+x after adding gleason: (631, 64) features
+xheld shape: (8, 64)
+
+Final x: (631, 64)
+Final x_held: (8, 64)
+03-3635,1,0.771778527684,0.0432909510649,0.125
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (3)
+Holding out 03-40083
+Dataset with 639 cases
+Split into 625 training
+Split into 14 held-out
+Appending Gleason score to features
+x after adding gleason: (625, 64) features
+xheld shape: (14, 64)
+
+Final x: (625, 64)
+Final x_held: (14, 64)
+03-40083,1,0.7792,0.0541169104809,0.714285714286
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (4)
+Holding out 03-40161
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+03-40161,1,0.766554180727,0.021633723401,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (5)
+Holding out 05-1701
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+05-1701,1,0.769778777653,0.111987898818,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (6)
+Holding out 05-3047
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+05-3047,1,0.777540307462,0.0916554809433,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (7)
+Holding out 05-40269
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+05-40269,1,0.788533333333,0.040072585188,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (8)
+Holding out 05-40491
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+Appending Gleason score to features
+x after adding gleason: (619, 64) features
+xheld shape: (20, 64)
+
+Final x: (619, 64)
+Final x_held: (20, 64)
+05-40491,1,0.768908995542,0.0578159975059,0.65
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (9)
+Holding out 05-416
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+05-416,1,0.788546031746,0.0934784868467,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (10)
+Holding out 06-140
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+06-140,1,0.770877419355,0.0571452740978,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (11)
+Holding out 06-40427
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+06-40427,0,0.788601424822,0.0347665471814,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (12)
+Holding out 06-40703
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+06-40703,0,0.778376913697,0.0477993229448,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (13)
+Holding out 06-4175
+Dataset with 639 cases
+Split into 614 training
+Split into 25 held-out
+Appending Gleason score to features
+x after adding gleason: (614, 64) features
+xheld shape: (25, 64)
+
+Final x: (614, 64)
+Final x_held: (25, 64)
+06-4175,1,0.791576702652,0.11991308326,0.24
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (14)
+Holding out 07-1292
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+07-1292,0,0.778851612903,0.0726113208294,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (15)
+Holding out 07-1376
+Dataset with 639 cases
+Split into 623 training
+Split into 16 held-out
+Appending Gleason score to features
+x after adding gleason: (623, 64) features
+xheld shape: (16, 64)
+
+Final x: (623, 64)
+Final x_held: (16, 64)
+07-1376,1,0.784877419355,0.0564491929435,0.25
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (16)
+Holding out 07-2369
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+07-2369,1,0.791746031746,0.0364402408947,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (17)
+Holding out 08-1364
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+08-1364,1,0.780789901262,0.0884474230326,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (18)
+Holding out 08-6431
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+08-6431,1,0.769187096774,0.0731481401392,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (19)
+Holding out 09-4120
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+09-4120,0,0.778825806452,0.0639594252235,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (20)
+Holding out 09-4281
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+09-4281,0,0.774090322581,0.111588767855,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (21)
+Holding out 09-5023
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+Appending Gleason score to features
+x after adding gleason: (619, 64) features
+xheld shape: (20, 64)
+
+Final x: (619, 64)
+Final x_held: (20, 64)
+09-5023,0,0.778783110412,0.0686664892344,0.25
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (22)
+Holding out 10-3726
+Dataset with 639 cases
+Split into 627 training
+Split into 12 held-out
+Appending Gleason score to features
+x after adding gleason: (627, 64) features
+xheld shape: (12, 64)
+
+Final x: (627, 64)
+Final x_held: (12, 64)
+10-3726,0,0.770374603175,0.0951527778696,0.916666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (23)
+Holding out 10-4887
+Dataset with 639 cases
+Split into 637 training
+Split into 2 held-out
+Appending Gleason score to features
+x after adding gleason: (637, 64) features
+xheld shape: (2, 64)
+
+Final x: (637, 64)
+Final x_held: (2, 64)
+10-4887,0,0.769266732283,0.0666051386718,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (24)
+Holding out 10-6382
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+10-6382,0,0.790184126984,0.0626836972082,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (25)
+Holding out 11-1395
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+11-1395,1,0.778851612903,0.0902197534501,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (26)
+Holding out 11-1404
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+Appending Gleason score to features
+x after adding gleason: (631, 64) features
+xheld shape: (8, 64)
+
+Final x: (631, 64)
+Final x_held: (8, 64)
+11-1404,0,0.774978127734,0.0150396043512,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (27)
+Holding out 11-1724
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+11-1724,0,0.762774193548,0.0511331248998,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (28)
+Holding out 11-1887
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-1887,0,0.777473015873,0.0932310991749,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (29)
+Holding out 11-2260
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+11-2260,0,0.767587096774,0.06221579578,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (30)
+Holding out 11-3796
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-3796,0,0.779022222222,0.0514303962051,0.5
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (31)
+Holding out 11-5999
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-5999,0,0.771085714286,0.064304220264,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (32)
+Holding out 11-8638
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-8638,0,0.774298412698,0.0722317772155,0.7
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (33)
+Holding out 12-1763
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+12-1763,0,0.76460952381,0.108041707091,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (34)
+Holding out 12-2190
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+12-2190,0,0.763419590841,0.110374850326,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (35)
+Holding out 12-2338
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+12-2338,0,0.761792275966,0.0519071658775,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (36)
+Holding out 12-2672
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+Appending Gleason score to features
+x after adding gleason: (619, 64) features
+xheld shape: (20, 64)
+
+Final x: (619, 64)
+Final x_held: (20, 64)
+12-2672,0,0.765853658537,0.0826497984571,0.95
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (37)
+Holding out 12-2869
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-2869,0,0.769264516129,0.0685057813704,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (38)
+Holding out 12-3640
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-3640,0,0.765935483871,0.0843052182436,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (39)
+Holding out 12-4104
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+12-4104,0,0.768513751524,0.0767212542466,0.833333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (40)
+Holding out 12-4317
+Dataset with 639 cases
+Split into 630 training
+Split into 9 held-out
+Appending Gleason score to features
+x after adding gleason: (630, 64) features
+xheld shape: (9, 64)
+
+Final x: (630, 64)
+Final x_held: (9, 64)
+12-4317,0,0.769841269841,0.0744510438067,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (41)
+Holding out 12-4699
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-4699,0,0.782090322581,0.104574721927,0.866666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (42)
+Holding out 12-5063
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+12-5063,0,0.783707936508,0.0827586097821,0.5
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (43)
+Holding out 12-6050
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+12-6050,0,0.774196825397,0.0917607580865,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (44)
+Holding out 12-6537
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-6537,0,0.781935483871,0.123101697338,0.866666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (45)
+Holding out 12-852
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+12-852,0,0.768500203224,0.0829098203681,0.8
+
+package importing successful
+Found existing version of /home/ingn/mzmo/analysis/nuclei/features/report/N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason.csv
+Cleaned it up
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M0_64__AG63.p
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M1_64__AG63.p
+Excluding hard-coded case strings:
+Data: 64808
+Before filtering: None
+Filtering out points where case is 03-161
+Filtered out 600 points
+
+Filtering out points where case is 08-6659
+Filtered out 600 points
+
+Filtering out points where case is 09-7198
+Filtered out 600 points
+
+Filtering out points where case is 10-8604
+Filtered out 600 points
+
+Filtering out points where case is 11-1997
+Filtered out 600 points
+
+Filtering out points where case is 11-2605
+Filtered out 600 points
+
+Filtering out points where case is 12-7319
+Filtered out 599 points
+
+Filtering out points where case is 12-7463
+Filtered out 600 points
+
+Filtering out points where case is 15-7629
+Filtered out 600 points
+
+Data: 59409
+After filtering: None
+Filtering out points where grade is SC
+Filtered out 1624 points
+
+Filtering out points where grade is NE
+Filtered out 500 points
+
+Using cases where score <= 7
+Data: 57285
+Before filtering: None
+Filtering out points where grade is 5
+Filtered out 340 points
+
+Filtering out points where grade is 5 5
+Filtered out 0 points
+
+Filtering out points where grade is 5+5
+Filtered out 22827 points
+
+Filtering out points where grade is 5+3
+Filtered out 1100 points
+
+Filtering out points where grade is 5_5
+Filtered out 220 points
+
+Filtering out points where grade is 5+4
+Filtered out 400 points
+
+Filtering out points where grade is 4+5
+Filtered out 8771 points
+
+Filtering out points where grade is 4+4
+Filtered out 10257 points
+
+Filtering out points where grade is 3,4+5
+Filtered out 300 points
+
+Filtering out points where grade is 3+4+5
+Filtered out 300 points
+
+Data: 12770
+After filtering: None
+Grouping tiles together by averaging
+length gathered = 639
+Creating new dataset from 639 tiles
+Returning unchanged feature set
+For normalization, built x: (639, 63)
+For normalization, built y: (639,)
+Scaling features to [0,1]
+Dataset.data[0] = (63,)
+Dataset cases: 
+03-133
+03-2404
+03-3635
+03-40083
+03-40161
+05-1701
+05-3047
+05-40269
+05-40491
+05-416
+06-140
+06-40427
+06-40703
+06-4175
+07-1292
+07-1376
+07-2369
+08-1364
+08-6431
+09-4120
+09-4281
+09-5023
+10-3726
+10-4887
+10-6382
+11-1395
+11-1404
+11-1724
+11-1887
+11-2260
+11-3796
+11-5999
+11-8638
+12-1763
+12-2190
+12-2338
+12-2672
+12-2869
+12-3640
+12-4104
+12-4317
+12-4699
+12-5063
+12-6050
+12-6537
+12-852
+Dataset grades: 
+3
+3+3
+3+4
+3+5
+4
+4+3
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (0)
+Holding out 03-133
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+03-133,1,0.785264516129,0.0752169131024,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (1)
+Holding out 03-2404
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+03-2404,1,0.814388294269,0.0524607938779,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (2)
+Holding out 03-3635
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+Appending Gleason score to features
+x after adding gleason: (631, 64) features
+xheld shape: (8, 64)
+
+Final x: (631, 64)
+Final x_held: (8, 64)
+03-3635,1,0.771778527684,0.0432909510649,0.125
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (3)
+Holding out 03-40083
+Dataset with 639 cases
+Split into 625 training
+Split into 14 held-out
+Appending Gleason score to features
+x after adding gleason: (625, 64) features
+xheld shape: (14, 64)
+
+Final x: (625, 64)
+Final x_held: (14, 64)
+03-40083,1,0.7792,0.0541169104809,0.714285714286
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (4)
+Holding out 03-40161
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+03-40161,1,0.766554180727,0.021633723401,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (5)
+Holding out 05-1701
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+05-1701,1,0.769778777653,0.111987898818,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (6)
+Holding out 05-3047
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+05-3047,1,0.777540307462,0.0916554809433,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (7)
+Holding out 05-40269
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+05-40269,1,0.788533333333,0.040072585188,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (8)
+Holding out 05-40491
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+Appending Gleason score to features
+x after adding gleason: (619, 64) features
+xheld shape: (20, 64)
+
+Final x: (619, 64)
+Final x_held: (20, 64)
+05-40491,1,0.768908995542,0.0578159975059,0.65
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (9)
+Holding out 05-416
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+05-416,1,0.788546031746,0.0934784868467,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (10)
+Holding out 06-140
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+06-140,1,0.770877419355,0.0571452740978,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (11)
+Holding out 06-40427
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+06-40427,0,0.788601424822,0.0347665471814,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (12)
+Holding out 06-40703
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+06-40703,0,0.778376913697,0.0477993229448,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (13)
+Holding out 06-4175
+Dataset with 639 cases
+Split into 614 training
+Split into 25 held-out
+Appending Gleason score to features
+x after adding gleason: (614, 64) features
+xheld shape: (25, 64)
+
+Final x: (614, 64)
+Final x_held: (25, 64)
+06-4175,1,0.791576702652,0.11991308326,0.24
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (14)
+Holding out 07-1292
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+07-1292,0,0.778851612903,0.0726113208294,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (15)
+Holding out 07-1376
+Dataset with 639 cases
+Split into 623 training
+Split into 16 held-out
+Appending Gleason score to features
+x after adding gleason: (623, 64) features
+xheld shape: (16, 64)
+
+Final x: (623, 64)
+Final x_held: (16, 64)
+07-1376,1,0.784877419355,0.0564491929435,0.25
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (16)
+Holding out 07-2369
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+07-2369,1,0.791746031746,0.0364402408947,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (17)
+Holding out 08-1364
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+08-1364,1,0.780789901262,0.0884474230326,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (18)
+Holding out 08-6431
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+08-6431,1,0.769187096774,0.0731481401392,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (19)
+Holding out 09-4120
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+09-4120,0,0.778825806452,0.0639594252235,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (20)
+Holding out 09-4281
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+09-4281,0,0.774090322581,0.111588767855,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (21)
+Holding out 09-5023
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+Appending Gleason score to features
+x after adding gleason: (619, 64) features
+xheld shape: (20, 64)
+
+Final x: (619, 64)
+Final x_held: (20, 64)
+09-5023,0,0.778783110412,0.0686664892344,0.25
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (22)
+Holding out 10-3726
+Dataset with 639 cases
+Split into 627 training
+Split into 12 held-out
+Appending Gleason score to features
+x after adding gleason: (627, 64) features
+xheld shape: (12, 64)
+
+Final x: (627, 64)
+Final x_held: (12, 64)
+10-3726,0,0.770374603175,0.0951527778696,0.916666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (23)
+Holding out 10-4887
+Dataset with 639 cases
+Split into 637 training
+Split into 2 held-out
+Appending Gleason score to features
+x after adding gleason: (637, 64) features
+xheld shape: (2, 64)
+
+Final x: (637, 64)
+Final x_held: (2, 64)
+10-4887,0,0.769266732283,0.0666051386718,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (24)
+Holding out 10-6382
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+10-6382,0,0.790184126984,0.0626836972082,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (25)
+Holding out 11-1395
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+11-1395,1,0.778851612903,0.0902197534501,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (26)
+Holding out 11-1404
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+Appending Gleason score to features
+x after adding gleason: (631, 64) features
+xheld shape: (8, 64)
+
+Final x: (631, 64)
+Final x_held: (8, 64)
+11-1404,0,0.774978127734,0.0150396043512,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (27)
+Holding out 11-1724
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+11-1724,0,0.762774193548,0.0511331248998,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (28)
+Holding out 11-1887
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-1887,0,0.777473015873,0.0932310991749,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (29)
+Holding out 11-2260
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+11-2260,0,0.767587096774,0.06221579578,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (30)
+Holding out 11-3796
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-3796,0,0.779022222222,0.0514303962051,0.5
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (31)
+Holding out 11-5999
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-5999,0,0.771085714286,0.064304220264,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (32)
+Holding out 11-8638
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-8638,0,0.774298412698,0.0722317772155,0.7
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (33)
+Holding out 12-1763
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+12-1763,0,0.76460952381,0.108041707091,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (34)
+Holding out 12-2190
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+12-2190,0,0.763419590841,0.110374850326,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (35)
+Holding out 12-2338
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+12-2338,0,0.761792275966,0.0519071658775,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (36)
+Holding out 12-2672
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+Appending Gleason score to features
+x after adding gleason: (619, 64) features
+xheld shape: (20, 64)
+
+Final x: (619, 64)
+Final x_held: (20, 64)
+12-2672,0,0.765853658537,0.0826497984571,0.95
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (37)
+Holding out 12-2869
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-2869,0,0.769264516129,0.0685057813704,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (38)
+Holding out 12-3640
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-3640,0,0.765935483871,0.0843052182436,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (39)
+Holding out 12-4104
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+12-4104,0,0.768513751524,0.0767212542466,0.833333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (40)
+Holding out 12-4317
+Dataset with 639 cases
+Split into 630 training
+Split into 9 held-out
+Appending Gleason score to features
+x after adding gleason: (630, 64) features
+xheld shape: (9, 64)
+
+Final x: (630, 64)
+Final x_held: (9, 64)
+12-4317,0,0.769841269841,0.0744510438067,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (41)
+Holding out 12-4699
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-4699,0,0.782090322581,0.104574721927,0.866666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (42)
+Holding out 12-5063
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+12-5063,0,0.783707936508,0.0827586097821,0.5
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (43)
+Holding out 12-6050
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+12-6050,0,0.774196825397,0.0917607580865,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (44)
+Holding out 12-6537
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-6537,0,0.781935483871,0.123101697338,0.866666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (45)
+Holding out 12-852
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+12-852,0,0.768500203224,0.0829098203681,0.8
+
+package importing successful
+Found existing version of /home/ingn/mzmo/analysis/nuclei/features/report/N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason.csv
+Cleaned it up
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M0_64__AG63.p
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M1_64__AG63.p
+Excluding hard-coded case strings:
+Data: 64808
+Before filtering: None
+Filtering out points where case is 03-161
+Filtered out 600 points
+
+Filtering out points where case is 08-6659
+Filtered out 600 points
+
+Filtering out points where case is 09-7198
+Filtered out 600 points
+
+Filtering out points where case is 10-8604
+Filtered out 600 points
+
+Filtering out points where case is 11-1997
+Filtered out 600 points
+
+Filtering out points where case is 11-2605
+Filtered out 600 points
+
+Filtering out points where case is 12-7319
+Filtered out 599 points
+
+Filtering out points where case is 12-7463
+Filtered out 600 points
+
+Filtering out points where case is 15-7629
+Filtered out 600 points
+
+Data: 59409
+After filtering: None
+Filtering out points where grade is SC
+Filtered out 1624 points
+
+Filtering out points where grade is NE
+Filtered out 500 points
+
+Using cases where score <= 7
+Data: 57285
+Before filtering: None
+Filtering out points where grade is 5
+Filtered out 340 points
+
+Filtering out points where grade is 5 5
+Filtered out 0 points
+
+Filtering out points where grade is 5+5
+Filtered out 22827 points
+
+Filtering out points where grade is 5+3
+Filtered out 1100 points
+
+Filtering out points where grade is 5_5
+Filtered out 220 points
+
+Filtering out points where grade is 5+4
+Filtered out 400 points
+
+Filtering out points where grade is 4+5
+Filtered out 8771 points
+
+Filtering out points where grade is 4+4
+Filtered out 10257 points
+
+Filtering out points where grade is 3,4+5
+Filtered out 300 points
+
+Filtering out points where grade is 3+4+5
+Filtered out 300 points
+
+Data: 12770
+After filtering: None
+Grouping tiles together by averaging
+length gathered = 639
+Creating new dataset from 639 tiles
+Returning unchanged feature set
+For normalization, built x: (639, 63)
+For normalization, built y: (639,)
+Scaling features to [0,1]
+Dataset.data[0] = (63,)
+Dataset cases: 
+03-133
+03-2404
+03-3635
+03-40083
+03-40161
+05-1701
+05-3047
+05-40269
+05-40491
+05-416
+06-140
+06-40427
+06-40703
+06-4175
+07-1292
+07-1376
+07-2369
+08-1364
+08-6431
+09-4120
+09-4281
+09-5023
+10-3726
+10-4887
+10-6382
+11-1395
+11-1404
+11-1724
+11-1887
+11-2260
+11-3796
+11-5999
+11-8638
+12-1763
+12-2190
+12-2338
+12-2672
+12-2869
+12-3640
+12-4104
+12-4317
+12-4699
+12-5063
+12-6050
+12-6537
+12-852
+Dataset grades: 
+3
+3+3
+3+4
+3+5
+4
+4+3
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (0)
+Holding out 03-133
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+03-133,1,0.785264516129,0.0752169131024,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (1)
+Holding out 03-2404
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+03-2404,1,0.814388294269,0.0524607938779,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (2)
+Holding out 03-3635
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+Appending Gleason score to features
+x after adding gleason: (631, 64) features
+xheld shape: (8, 64)
+
+Final x: (631, 64)
+Final x_held: (8, 64)
+03-3635,1,0.771778527684,0.0432909510649,0.125
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (3)
+Holding out 03-40083
+Dataset with 639 cases
+Split into 625 training
+Split into 14 held-out
+Appending Gleason score to features
+x after adding gleason: (625, 64) features
+xheld shape: (14, 64)
+
+Final x: (625, 64)
+Final x_held: (14, 64)
+03-40083,1,0.7792,0.0541169104809,0.714285714286
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (4)
+Holding out 03-40161
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+03-40161,1,0.766554180727,0.021633723401,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (5)
+Holding out 05-1701
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+05-1701,1,0.769778777653,0.111987898818,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (6)
+Holding out 05-3047
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+05-3047,1,0.777540307462,0.0916554809433,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (7)
+Holding out 05-40269
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+05-40269,1,0.788533333333,0.040072585188,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (8)
+Holding out 05-40491
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+Appending Gleason score to features
+x after adding gleason: (619, 64) features
+xheld shape: (20, 64)
+
+Final x: (619, 64)
+Final x_held: (20, 64)
+05-40491,1,0.768908995542,0.0578159975059,0.65
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (9)
+Holding out 05-416
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+05-416,1,0.788546031746,0.0934784868467,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (10)
+Holding out 06-140
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+06-140,1,0.770877419355,0.0571452740978,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (11)
+Holding out 06-40427
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+06-40427,0,0.788601424822,0.0347665471814,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (12)
+Holding out 06-40703
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+06-40703,0,0.778376913697,0.0477993229448,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (13)
+Holding out 06-4175
+Dataset with 639 cases
+Split into 614 training
+Split into 25 held-out
+Appending Gleason score to features
+x after adding gleason: (614, 64) features
+xheld shape: (25, 64)
+
+Final x: (614, 64)
+Final x_held: (25, 64)
+06-4175,1,0.791576702652,0.11991308326,0.24
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (14)
+Holding out 07-1292
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+07-1292,0,0.778851612903,0.0726113208294,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (15)
+Holding out 07-1376
+Dataset with 639 cases
+Split into 623 training
+Split into 16 held-out
+Appending Gleason score to features
+x after adding gleason: (623, 64) features
+xheld shape: (16, 64)
+
+Final x: (623, 64)
+Final x_held: (16, 64)
+07-1376,1,0.784877419355,0.0564491929435,0.25
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (16)
+Holding out 07-2369
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+07-2369,1,0.791746031746,0.0364402408947,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (17)
+Holding out 08-1364
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+08-1364,1,0.780789901262,0.0884474230326,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (18)
+Holding out 08-6431
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+08-6431,1,0.769187096774,0.0731481401392,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (19)
+Holding out 09-4120
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+09-4120,0,0.778825806452,0.0639594252235,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (20)
+Holding out 09-4281
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+09-4281,0,0.774090322581,0.111588767855,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (21)
+Holding out 09-5023
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+Appending Gleason score to features
+x after adding gleason: (619, 64) features
+xheld shape: (20, 64)
+
+Final x: (619, 64)
+Final x_held: (20, 64)
+09-5023,0,0.778783110412,0.0686664892344,0.25
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (22)
+Holding out 10-3726
+Dataset with 639 cases
+Split into 627 training
+Split into 12 held-out
+Appending Gleason score to features
+x after adding gleason: (627, 64) features
+xheld shape: (12, 64)
+
+Final x: (627, 64)
+Final x_held: (12, 64)
+10-3726,0,0.770374603175,0.0951527778696,0.916666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (23)
+Holding out 10-4887
+Dataset with 639 cases
+Split into 637 training
+Split into 2 held-out
+Appending Gleason score to features
+x after adding gleason: (637, 64) features
+xheld shape: (2, 64)
+
+Final x: (637, 64)
+Final x_held: (2, 64)
+10-4887,0,0.769266732283,0.0666051386718,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (24)
+Holding out 10-6382
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+10-6382,0,0.790184126984,0.0626836972082,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (25)
+Holding out 11-1395
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+11-1395,1,0.778851612903,0.0902197534501,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (26)
+Holding out 11-1404
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+Appending Gleason score to features
+x after adding gleason: (631, 64) features
+xheld shape: (8, 64)
+
+Final x: (631, 64)
+Final x_held: (8, 64)
+11-1404,0,0.774978127734,0.0150396043512,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (27)
+Holding out 11-1724
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+11-1724,0,0.762774193548,0.0511331248998,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (28)
+Holding out 11-1887
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-1887,0,0.777473015873,0.0932310991749,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (29)
+Holding out 11-2260
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+11-2260,0,0.767587096774,0.06221579578,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (30)
+Holding out 11-3796
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-3796,0,0.779022222222,0.0514303962051,0.5
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (31)
+Holding out 11-5999
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-5999,0,0.771085714286,0.064304220264,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (32)
+Holding out 11-8638
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+11-8638,0,0.774298412698,0.0722317772155,0.7
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (33)
+Holding out 12-1763
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+12-1763,0,0.76460952381,0.108041707091,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (34)
+Holding out 12-2190
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+12-2190,0,0.763419590841,0.110374850326,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (35)
+Holding out 12-2338
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+Appending Gleason score to features
+x after adding gleason: (634, 64) features
+xheld shape: (5, 64)
+
+Final x: (634, 64)
+Final x_held: (5, 64)
+12-2338,0,0.761792275966,0.0519071658775,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (36)
+Holding out 12-2672
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+Appending Gleason score to features
+x after adding gleason: (619, 64) features
+xheld shape: (20, 64)
+
+Final x: (619, 64)
+Final x_held: (20, 64)
+12-2672,0,0.765853658537,0.0826497984571,0.95
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (37)
+Holding out 12-2869
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-2869,0,0.769264516129,0.0685057813704,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (38)
+Holding out 12-3640
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-3640,0,0.765935483871,0.0843052182436,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (39)
+Holding out 12-4104
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+12-4104,0,0.768513751524,0.0767212542466,0.833333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (40)
+Holding out 12-4317
+Dataset with 639 cases
+Split into 630 training
+Split into 9 held-out
+Appending Gleason score to features
+x after adding gleason: (630, 64) features
+xheld shape: (9, 64)
+
+Final x: (630, 64)
+Final x_held: (9, 64)
+12-4317,0,0.769841269841,0.0744510438067,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (41)
+Holding out 12-4699
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-4699,0,0.782090322581,0.104574721927,0.866666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (42)
+Holding out 12-5063
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+12-5063,0,0.783707936508,0.0827586097821,0.5
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (43)
+Holding out 12-6050
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+Appending Gleason score to features
+x after adding gleason: (629, 64) features
+xheld shape: (10, 64)
+
+Final x: (629, 64)
+Final x_held: (10, 64)
+12-6050,0,0.774196825397,0.0917607580865,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (44)
+Holding out 12-6537
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+Appending Gleason score to features
+x after adding gleason: (624, 64) features
+xheld shape: (15, 64)
+
+Final x: (624, 64)
+Final x_held: (15, 64)
+12-6537,0,0.781935483871,0.123101697338,0.866666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_noSel_minmaxNorm_noBalance_withGleason (45)
+Holding out 12-852
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+Appending Gleason score to features
+x after adding gleason: (609, 64) features
+xheld shape: (30, 64)
+
+Final x: (609, 64)
+Final x_held: (30, 64)
+12-852,0,0.768500203224,0.0829098203681,0.8
+

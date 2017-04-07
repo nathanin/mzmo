@@ -1,0 +1,6046 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+
+writeLL =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0
+
+Rootdir: /home/ingn/mzmo/data/nuclei/source_nuclei_0
+writep: /home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/0
+writeLL: /home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0
+glmaskpath: /home/ingn/mzmo/data/
+versionStr: fixed 64 window - hard thresholds - pick 20
+Creating listfile at /home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/0
+Creating indexfile at /home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/0
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_001(3+3)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_001(3+3)_6_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_001(3+3)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_001(3+3)_8_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_001(3+3)_9_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_005(4+5)_46_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_005(4+5)_48_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_12_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_15_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_16_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_16_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_17_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_25_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_25_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_27_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_27_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_28_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_29_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_31_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_31_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_33_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_006(4+5)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_007(4+5)_12_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_007(4+5)_12_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_007(4+5)_17_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_008(4+5)_10_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_008(4+5)_19_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_008(4+5)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40427_2_L3_008(4+5)_30_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_012(5+5)_9_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_013(5+5)_10_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_013(5+5)_13_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_013(5+5)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_013(5+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_013(5+5)_7_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_014(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_014(5+5)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_014(5+5)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_014(5+5)_6_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_014(5+5)_7_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_015(5+5)_13_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_015(5+5)_13_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_015(5+5)_14_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_015(5+5)_19_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_015(5+5)_20_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_015(5+5)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_015(5+5)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_10_3_LL.png
+
+50 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_10_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_11_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_11_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_12_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_6_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_7_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_9_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40520_1_L3_016(5+5)_9_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_001(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_002(4+3)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_002(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_002(4+3)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_002(4+3)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_002(4+3)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_002(4+3)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_003(4+3)_10_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_003(4+3)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_003(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_003(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_003(4+3)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_003(4+3)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_003(4+3)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_003(4+3)_6_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_005(4+3)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_005(4+3)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_006(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_006(4+3)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_006(4+3)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_006(4+3)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_006(4+3)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_006(4+3)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_006(4+3)_6_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_006(4+3)_8_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_007(3+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_007(3+3)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_007(3+3)_7_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_007(3+3)_8_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_06-40703_2_L3_007(3+3)_9_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_002(4+4)_2_14_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_002(4+4)_3_14_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_002(4+4)_4_18_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_002(4+4)_4_19_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_002(4+4)_4_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_002(4+4)_5_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_006(4+4)_2_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_006(4+4)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_006(4+4)_5_3_LL.png
+
+100 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_007(4+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_007(4+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_008(4+3)_1_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_008(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_1_L3_008(4+3)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_001(4+4)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_001(4+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_002(4+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_002(4+4)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_007(4+3)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_007(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_007(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_007(4+3)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_007(4+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_007(4+3)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_007(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_009(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_009(4+3)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_009(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_009(4+3)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-1292_2_L3_009(4+3)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_001(4+5)_26_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_007(4+5)_49_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_11_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_11_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_14_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_19_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_23_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_24_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_35_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_52_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_53_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_56_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_7_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_008(4+5)_9_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_16_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_22_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_27_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_28_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_29_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_29_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_31_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_5_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_5_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_009(4+5)_5_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_010(4+5)_20_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_010(4+5)_38_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_010(4+5)_38_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_010(4+5)_41_4_LL.png
+
+150 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_07-3287_2_L3_010(4+5)_48_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_005(5+5)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_005(5+5)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_005(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_005(5+5)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_005(5+5)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_005(5+5)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_005(5+5)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_1_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_1_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_1_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_6_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_7_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_006(5+5)_7_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_1_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-1963_1_L1_007(5+5)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_002(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_002(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_002(5+5)_5_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_006(5+5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_008(5+5)_9_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_014(5+5)_9_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_016(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_016(5+5)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_017(5+5)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_018(5+5)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_1_L3_019(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_007(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_007(5+5)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_013(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_013(5+5)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_016(4+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_019(4+4)_6_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_020(4+4)_10_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_020(4+4)_14_3_LL.png
+
+200 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_020(4+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_020(4+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_020(4+4)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_020(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_020(4+4)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_020(4+4)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_024(4+4)_10_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_024(4+4)_10_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_024(4+4)_12_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_024(4+4)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40328_2_L3_024(4+4)_6_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_1_L3_011(5+5)_15_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_1_L3_011(5+5)_36_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_1_L3_012(5+5)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_1_L3_012(5+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_001(4+5)_14_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_001(4+5)_18_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_001(4+5)_19_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_001(4+5)_37_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_001(4+5)_39_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_001(4+5)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_001(4+5)_5_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_001(4+5)_6_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_001(4+5)_7_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_001(4+5)_8_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_003(4+5)_16_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_003(4+5)_24_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_003(4+5)_34_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_003(4+5)_42_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_004(4+5)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_006(5+5)_33_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_006(5+5)_34_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_007(5+5)_11_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_007(5+5)_12_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_008(5+5)_11_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_008(5+5)_21_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_008(5+5)_28_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_008(5+5)_31_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_008(5+5)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_008(5+5)_6_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_08-40910_2_L3_008(5+5)_8_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L1_001(4+3)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L1_001(4+3PN)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L1_001(4+3PN)_6_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L1_002(4+3)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L1_003(4+3)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L1_004(4+3)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L1_007(4+3PN)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L1_007(4+3PN)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L1_010(5+5)_8_2_LL.png
+
+250 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L1_010(5+5)_9_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L3_001(4+3PN)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L3_001(4+3PN)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L3_007(4+3PN)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L3_009(4+3PN)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L3_011(4+3PN)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L3_011(4+3PN)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L3_013(4+3PN)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L3_016(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L3_017(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_1_L3_018(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_2_L1_002(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_2_L1_003(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_2_L1_004(5+5)_6_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_2_L1_004(5+5)_6_2_LL.png
+
+Stats length less than 20
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_2_L1_004(5+5)_7_2_LL.png
+
+Stats length less than 20
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_2_L1_005(5+5)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_2_L1_007(5+5)_12_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_2_L1_007(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_2_L1_007(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4120_2_L1_007(5+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_004(4+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_004(4+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_004(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_004(4+4)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_006(4+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_006(4+4)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_008(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_010(4+4)_1_17_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_010(4+4)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_010(4+4)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_010(4+4)_3_22_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_014(4+4)_1_17_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_014(4+4)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_016(4+4)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_016(4+4)_5_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_017(3+4)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_017(3+4)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_017(3+4)_2_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_017(3+4)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_017(3+4)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_017(3+4)_3_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_018(3+4)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_018(3+4)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_018(3+4)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_018(3+4)_3_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_018(3+4)_3_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_018(3+4)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_1_L3_018(3+4)_4_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_2_L3_001(3+4PUFFY)_2_9_LL.png
+
+300 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-4281_2_L3_001(3+4PUFFY)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_1_L3_001(4+4)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_1_L3_001(4+4)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_1_L3_002(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_1_L3_002(4+4)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_1_L3_002(4+4)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_1_L3_003(4+4)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_1_L3_003(4+4)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_1_L3_004(4+4)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_1_L3_004(4+4)_8_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_1_L3_005(4+4)_1_20_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+4)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+5)_2_13_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+5)_2_14_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+5)_3_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+5)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+5)_4_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+5)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+5)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_001(3+5)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_002(3+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_002(3+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_002(3+5)_5_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_002(3+5)_5_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_002(3+5)_6_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_002(3+5)_6_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_002(3+5)_6_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-5023_2_L3_002(3+5)_7_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_001(5+5SIGNET)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_001(5+5SIGNET)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_001(5+5SIGNET)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_001(5+5SIGNET)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_001(5+5SIGNET)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_002(5+5SIGNET)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_002(5+5SIGNET)_4_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_002(5+5SIGNET)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_002(5+5SIGNET)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_002(5+5SIGNET)_5_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_002(5+5SIGNET)_5_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_002(5+5SIGNET)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_003(5+5SIGNET)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_003(5+5SIGNET)_2_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_003(5+5SIGNET)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_003(5+5SIGNET)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_003(5+5SIGNET)_5_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_003(5+5SIGNET)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_003(5+5SIGNET)_6_4_LL.png
+
+350 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_003(5+5SIGNET)_7_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_003(5+5SIGNET)_7_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_004(5+5SIGNET)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_004(5+5SIGNET)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_004(5+5SIGNET)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_004(5+5SIGNET)_6_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_004(5+5SIGNET)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_004(5+5SIGNET)_7_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_004(5+5SIGNET)_7_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_004(5+5SIGNET)_8_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-6243_2_L3_004(5+5SIGNET)_8_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_004(5+5)_5_11_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_004(5+5)_5_12_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_005(5+5)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_005(5+5)_5_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_005(5+5)_5_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_005(5+5)_6_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_1_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_006(5+5)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_007(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_007(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_007(5+5)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_008(5+5)_4_12_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_008(5+5)_5_14_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_008(5+5)_6_16_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_008(5+5)_6_17_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_009(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_009(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_010(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_1_L3_010(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_2_L3_001(5+5)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_09-7819_2_L3_002(5+5)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_001(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_001(4+4)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_002(4+4)_1_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_002(4+4)_2_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_002(4+4)_2_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_002(4+4)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_003(4+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_003(4+4)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_003(4+4)_1_4_LL.png
+
+400 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_004(4+4c)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_004(4+4c)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_004(4+4c)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_004(4+4c)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_004(4+4c)_3_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_005(4+4c)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_005(4+4c)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_005(4+4c)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_005(4+4c)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_006(4+3)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_006(4+3)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_006(4+3)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_006(4+3)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_006(4+3)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_006(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_007(4+3)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_007(4+3)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_007(4+3)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_007(4+3)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_007(4+3)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-3726_1_L3_007(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_002(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_002(5+5LUI)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_003(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_003(5+5LUI)_1_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_003(5+5LUI)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_003(5+5LUI)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_003(5+5LUI)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_003(5+5LUI)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_003(5+5LUI)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_003(5+5LUI)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_003(5+5LUI)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_003(5+5LUI)_3_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_005(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_007(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_008(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(4+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(4+4)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(4+4)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(4+4)_3_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(4+4)_3_11_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(4+4)_3_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(4+4)_3_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(4+4)_3_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(4+4)_4_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(4+4)_4_11_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_009(5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_010(5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_1_L3_012(5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_2_L1_016(3+4)_LL.png
+
+450 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-4887_2_L1_017(3+4)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_1_L3_001(4+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_001(4+5)_15_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_001(4+5)_16_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_001(4+5)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_002(4+5)_13_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_002(4+5)_18_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_002(4+5)_20_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_002(4+5)_27_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_002(4+5)_27_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_002(4+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_002(4+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_002(4+5)_8_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_002(4+5)_9_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_003(4+5)_28_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_003(4+5)_29_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_003(4+5)_32_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_003(4+5)_5_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_003(4+5)_7_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_004(4+5)_26_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_004(4+5)_7_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_004(4+5)_8_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_004(4+5)_9_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_005(4+5)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_005(4+5)_5_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_005(4+5)_8_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_005(4+5)_9_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_006(4+5)_19_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_006(4+5)_31_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_006(4+5)_34_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-5599_2_L3_007(4+5)_15_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_1_L3_004(4+3)_10_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_1_L3_005(4+3)_11_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_1_L3_005(4+3)_11_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_1_L3_005(4+3)_8_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_1_L3_005(4+3)_9_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_1_L3_008(4+3)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_1_L3_008(4+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_1_L3_008(4+3)_9_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_1_L3_008(4+3)_9_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_1_L3_011(4+3)_8_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_001(4+4)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_002(4+4)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_003(4+4)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_003(5_5)_11_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_003(5_5)_11_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_003(5_5)_13_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_003(5_5)_14_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_003(5_5)_15_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_004(4+4)_LL.png
+
+500 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_005(5_5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_005(5_5)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_006(5_5)_11_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_007(5_5)_13_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_007(5_5)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_007(5_5)_6_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_011(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_011(5+5)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_013(4+4)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_013(4+4)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_10-6382_2_L3_015(4+4)_16_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_1_L3_002(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_1_L3_003(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_1_L3_003(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_1_L3_004(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_1_L3_005(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_1_L3_005(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_1_L3_006(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_1_L3_006(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_001(4+4)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_001(4+4)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_001(4+4)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_001(4+4)_5_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_001(4+4)_5_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_002(4+4)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_002(4+4)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_002(4+4)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_002(4+4)_6_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_003(4+4)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_003(4+4)_5_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_004(5+5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_004(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_004(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_006(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_007(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_007(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_009(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_3_L1_009(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_6_L3_001(5+5PN)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_6_L3_002(5+5PN)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1404_6_L3_003(5+5PN)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_3_L3_003(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_3_L3_003(4+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_3_L3_003(4+3)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_001(4)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_001(4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_001(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_001(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_001(4+3)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_002(4)_1_2_LL.png
+
+550 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_002(4)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_002(4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_002(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_002(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_002(4+3)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_4_L3_002(4+3)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_001(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_002(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_003(5+5)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_003(5+5)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_003(5+5)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_003(5+5)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_003(5+5)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_003(5+5)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_003(5+5)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_004(5+5)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_004(5+5)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_004(5+5)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_004(5+5)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_004(5+5)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1724_5_L3_004(5+5)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_2_L3_003(4+4)_14_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_2_L3_003(4+4)_15_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_2_L3_003(4+4)_16_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_2_L3_003(4+4)_16_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_2_L3_003(4+4)_17_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_002(4+5)_5_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_002(4+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_002(4+5)_6_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(4)_14_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(4)_15_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(4)_16_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(4)_16_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(4)_17_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(4+5)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(4+5)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(5+4)_12_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(5+4)_21_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(5+4)_22_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(5+4)_22_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(5+4)_25_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(5+4)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(5+4)_5_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(5+4)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(5+4)_6_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_3_L3_003(5+4)_8_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_5_L3_006(3+4)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_5_L3_007(3+4)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_5_L3_007(3+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_5_L3_008(3+4)_3_1_LL.png
+
+600 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-1887_5_L3_008(3+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_001(3+4)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_001(3+4)_2_14_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_001(3+4)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_001(3+4)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_001(3+4)_2_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_002(3+4)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_002(3+4)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_002(3+4)_3_12_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_002(3+4)_3_13_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_003(3+4)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_003(3+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_003(3+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_003(3+4)_2_12_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_003(3+4)_2_14_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_5_L3_003(3+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_001(5+5N)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_001(5+5N)_4_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_001(5+5N)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_001(5+5N)_5_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_003(5+5N)_1_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_004(5+5N)_1_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_005(5+5N)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_005(5+5N)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_005(5+5N)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_006(5+5N)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_006(5+5N)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_006(5+5N)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_006(5+5N)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_006(5+5N)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-2260_6_L3_006(5+5N)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_001(4+3)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_001(4+3)_6_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_001(4+3)_6_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_001(4+5)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_001(4+5)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_001(5+5)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_001(5+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_001(5+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_002(4+3)_11_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_002(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_002(4+3)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_002(4+5)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_002(4+5)_8_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_002(5+5)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_002(5+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_002(5+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_003(4+3)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_003(4+3)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_003(4+3)_6_5_LL.png
+
+650 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_003(4+3)_6_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_003(4+5)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_003(5+5)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_1_L3_003(5+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_4_L3_001(5+5)_14_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_4_L3_001(5+5)_24_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_6_L3_008(5+4)_10_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_6_L3_008(5+4)_10_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_6_L3_008(5+4)_11_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_6_L3_008(5+4)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-3796_6_L3_008(5+4)_8_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_3_L3_005(4+5)_6_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_3_L3_006(4+5)_10_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_3_L3_006(4+5)_10_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_3_L3_006(4+5)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_3_L3_006(4+5)_5_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_3_L3_006(4+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_3_L3_006(4+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_3_L3_006(4+5)_7_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_3_L3_006(4+5)_9_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_3_L3_006(4+5)_9_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_4_L3_001(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_4_L3_002(4+3)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_4_L3_002(4+3)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_4_L3_003(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_4_L3_003(4+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_4_L3_003(4+3)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_4_L3_004(4+3)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_4_L3_005(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_4_L3_005(4+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_4_L3_006(4+3)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_6_L3_002(5+5)_19_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_6_L3_003(5+5)_10_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_6_L3_003(5+5)_13_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_6_L3_003(5+5)_15_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_6_L3_003(5+5)_16_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_6_L3_003(5+5)_16_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_6_L3_003(5+5)_17_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_6_L3_003(5+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_6_L3_003(5+5)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-5999_6_L3_003(5+5)_7_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_4_L3_001(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_4_L3_002(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_002(4+5)_1_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_003(4+5)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_004(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_005(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_005(4+5)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_006(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_006(4+5)_2_4_LL.png
+
+700 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_007(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_008(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_009(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_010(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_011(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_012(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_013(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_015(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_016(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_017(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_018(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_020(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_021(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_022(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_023(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_024(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_025(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_026(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_027(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_028(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8305_5_L3_029(4+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_1_L3_003(4+3)_10_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_1_L3_003(4+3)_10_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_1_L3_003(4+3)_12_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_1_L3_003(4+3)_13_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_1_L3_003(4+3)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_1_L3_003(4+3)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_1_L3_003(4+3)_7_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_1_L3_003(4+3)_8_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_1_L3_003(4+3)_8_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_1_L3_003(4+3)_9_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_5_L3_001(5+3)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_5_L3_002(5+3)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_5_L3_002(5+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_5_L3_002(5+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_5_L3_002(5+3)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_001(5+5)_6_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_001(5+5)_7_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_002(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_002(5+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_002(5+5)_6_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_002(5+5)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_002(5+5)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_003(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_003(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_003(5+5)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_003(5+5)_6_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_003(5+5)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_003(5+5)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_003(5+5)_7_3_LL.png
+
+750 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_11-8638_6_L3_003(5+5)_7_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_2_L3_002(5+5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_2_L3_002(5+5)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_2_L3_002(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_2_L3_002(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_2_L3_003(5+5)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_2_L3_003(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_2_L3_003(5+5)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_2_L3_003(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_2_L3_003(5+5)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_2_L3_003(5+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_4_L3_001(3+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_4_L3_001(3+4)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_4_L3_001(3+4)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_4_L3_002(3+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_4_L3_002(3+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_4_L3_002(3+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_4_L3_002(3+4)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_4_L3_003(3+4)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_4_L3_003(3+4)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_4_L3_003(3+4)_5_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_5_L3_003(4+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_5_L3_003(4+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_5_L3_006(4+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_5_L3_006(4+4)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_5_L3_006(4+4)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_5_L3_008(4+4)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_5_L3_009(4+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_5_L3_009(4+4)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_5_L3_009(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-1763_5_L3_009(4+4)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_4_L3_001(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_001(4+3p)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_001(4+3p)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_003(4+3P)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_003(4+3P)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_003(4+3P)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_003(4+3P)_2_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_003(4+3P)_2_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_003(4+3P)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_004(4+3P)_2_13_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_004(4+3P)_2_14_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_004(4+3P)_2_15_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_004(4+3P)_2_16_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_004(4+3P)_2_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_004(4+3P)_3_13_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_004(4+3P)_3_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_010(4+3P)_1_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_010(4+3P)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_010(4+3P)_2_4_LL.png
+
+800 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_010(4+3P)_2_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_010(4+3P)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_011(4+3P)_1_15_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_011(4+3P)_1_16_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_011(4+3P)_2_12_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_011(4+3P)_2_13_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_011(4+3P)_2_14_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_011(4+3P)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_011(4+3P)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_011(4+3P)_2_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2190_5_L3_011(4+3P)_3_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_2_L3_001(3+5_PN)_12_17_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_2_L3_001(3+5_PN)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_2_L3_001(3+5_PN)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_2_L3_001(3+5_PN)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_2_L3_002(3+5_PN)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_3_L1_002(5+5_PN)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_3_L1_003(5+5_PN)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_002(5+5_PN)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_002(5+5_PN)_7_21_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_003(5+5_PN)_10_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_003(5+5_PN)_11_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_003(5+5_PN)_11_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_003(5+5_PN)_11_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_003(5+5_PN)_12_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_003(5+5_PN)_12_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_004(5+5_PN)_4_26_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_004(5+5_PN)_4_27_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_004(5+5_PN)_7_23_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_5_L1_004(5+5_PN)_8_22_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_001(5+5)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_001(5+5)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_001(5+5)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_001(5+5)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_001(5+5)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_001(5+5)_3_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_002(5+5)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_002(5+5)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_002(5+5)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_002(5+5)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2338_6_L3_002(5+5)_2_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_2_L3_002(3+4pn)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_2_L3_008(3+4pn)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_2_L3_010(3+4pn)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_2_L3_010(3+4pn)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_2_L3_010(3+4pn)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_2_L3_015(3+4pn)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_2_L3_017(3+4pn)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_2_L3_021(3+4pn)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_2_L3_021(3+4pn)_2_2_LL.png
+
+850 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_2_L3_021(3+4pn)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_002(5+5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_002(5+5)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_002(5+5)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_002(5+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_004(5+5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_004(5+5)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_004(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_004(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_004(5+5)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_004(5+5)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_005(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_005(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_005(4+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_005(4+3)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_006(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_008(4+3)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_008(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_008(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_009(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2672_3_L3_010(4+3)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_1_L3_001(3+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_1_L3_001(3+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_1_L3_001(3+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_1_L3_001(4+5)_3_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_1_L3_001(4+5)_3_11_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_1_L3_001(4+5)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_1_L3_001(4+5)_3_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_1_L3_001(4+5)_3_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_001(4+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_001(4+4)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_001(4+4)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_001(4+4)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_001(4+4)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_001(5+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_001(5+3)_3_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_001(5+3)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_002(4+3)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_002(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_002(4+3)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_002(4+3)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_002(4+3)_3_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_002(5+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_2_L3_002(5+3)_2_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_3_L3_001(3+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_3_L3_001(3+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_3_L3_001(3+3)_5_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_3_L3_001(3+4)_1_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_3_L3_001(3+4)_2_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_3_L3_002(3+3)_2_2_LL.png
+
+900 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-2869_3_L3_002(3+3)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_1_L3_001(5+5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_2_L3_003(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_2_L3_003(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_3_L3_001(5+5)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_3_L3_001(5+5)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_3_L3_001(5+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_3_L3_002(5+5)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_3_L3_002(5+5)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_3_L3_002(5+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_3_L3_003(5+5)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_4_L3_001(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_4_L3_001(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_4_L3_001(4+3)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_003(5+5)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_003(5+5)_3_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_003(5+5)_3_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_003(5+5)_4_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_003(5+5)_7_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_005(4+3)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_005(4+3)_8_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_006(4+3)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_006(4+3)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_006(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_007(4+3)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_007(4+3)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_007(4+3)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_007(4+3)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_008(4+3)_1_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_008(4+3)_2_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-3640_6_L3_008(4+3)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_5_L3_004(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_5_L3_008(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_5_L3_008(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_5_L3_012(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_5_L3_012(4+3)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_5_L3_019(4+3)_6_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_5_L3_019(4+3)_8_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_5_L3_022(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_5_L3_022(4+3)_5_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_003(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_005(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_006(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_007(4+3)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_010(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_010(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_010(4+3)_2_3_LL.png
+
+Stats length less than 20
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_011(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_014(4+3)_1_1_LL.png
+
+Stats length less than 20
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_014(4+3)_1_2_LL.png
+
+950 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_014(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_014(4+3)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_014(4+3)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_014(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_017(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_018(4+3)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_025(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_025(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_025(4+3)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_025(4+3)_2_4_LL.png
+
+Stats length less than 20
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4104_6_L3_025(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_1_L3_003(3+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_1_L3_003(3+4)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_1_L3_004(3+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_1_L3_004(3+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_1_L3_004(3+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_1_L3_004(3+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_1_L3_007(3+4)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_1_L3_007(3+4)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_1_L3_008(3+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_2_L3_001(5+5SC)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_2_L3_001(5+5SC)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_2_L3_005(5+5SC)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_2_L3_006(5+5SC)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_2_L3_006(5+5SC)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_2_L3_010(5+5SC)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_002(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_002(4+4)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_002(4+4)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_002(4+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_002(4+4)_4_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_002(4+4)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_003(4+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_004(4+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_005(4+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_005(4+4)_1_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_005(4+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_005(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_006(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_006(4+4)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4317_3_L1_006(4+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_19_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_23_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_23_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_24_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_25_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_27_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_28_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_28_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_29_4_LL.png
+
+1000 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_001(4+3)_8_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_002(4+3)_25_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_002(4+3)_28_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_002(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_1_L3_002(4+3)_7_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_4_L3_004(4+4)_10_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_4_L3_004(4+4)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_5_L3_002(4+4)_10_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_5_L3_002(4+4)_22_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_5_L3_002(4+4)_23_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_5_L3_002(4+4)_9_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_5_L3_005(4+4)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_5_L3_005(4+4)_9_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_5_L3_007(4+4)_17_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_5_L3_007(4+4)_23_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_5_L3_007(4+4)_24_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_6_L3_003(4+4)_6_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_6_L3_003(4+4)_7_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_6_L3_005(4+4)_5_14_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-4699_6_L3_005(4+4)_6_14_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_1_L3_001(4+5)_3_12_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_1_L3_001(4+5)_4_17_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_1_L3_001(4+5)_4_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_1_L3_004(4+5)_4_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_1_L3_004(4+5)_5_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_1_L3_004(4+5)_5_18_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_1_L3_005(4+5)_5_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_2_L3_002(4+5)_19_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_2_L3_002(4+5)_4_21_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_2_L3_002(4+5)_5_22_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_2_L3_004(4+5)_13_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_2_L3_004(4+5)_3_24_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_2_L3_004(4+5)_4_25_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_5_L3_002(4+5)_2_24_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_5_L3_008(4+5)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_001(3+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_001(3+4)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_001(3+4)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_001(3+4)_2_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_001(3+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_001(3+4)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_001(3+4)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_001(3+4)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_001(5+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_002(3+4)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_002(3+4)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_002(5+4)_1_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_002(5+4)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_002(5+4)_3_2_LL.png
+
+1050 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-5063_6_L3_002(5+4)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_2_L3(4+3)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_2_L3_002(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_4_L3_002(3+4)_5_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_4_L3_002(3+4)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_4_L3_002(3+4)_6_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_4_L3_002(3+4)_6_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_4_L3_002(3+4)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_4_L3_002(3+4)_7_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_4_L3_002(3+4)_7_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_4_L3_002(3+4)_7_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_001(5+3)_4_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_001(5+3)_5_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_001(5+3)_5_11_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_002(5+3)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_002(5+3)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_002(5+3)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_002(5+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_003(5+3)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_003(5+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_003(5+3)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_003(5+3)_4_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_003(5+3)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_003(5+3)_4_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_003(5+3)_4_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_004(5+3)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_004(5+3)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_5_L3_004(5+3)_2_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_6_L3_004(5+3)_1_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_6_L3_004(5+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6050_6_L3_004(5+3)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_1_L3(5+5)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_1_L3_001(5+5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_1_L3_001(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_1_L3_002(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_1_L3_002(5+5)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_1_L3_002(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_1_L3_003(5+5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_1_L3_003(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_1_L3_004(5+5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_1_L3_004(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_001(4+4CRIBI)_7_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_001(4+4CRIBI)_7_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_001(4+4CRIBI)_8_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_002(4+4CRIBI)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_002(4+4CRIBI)_3_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_002(4+4CRIBI)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_002(4+4CRIBI)_5_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_002(4+4CRIBI)_5_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_002(4+4CRIBI)_8_1_LL.png
+
+1100 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_002(4+4CRIBI)_8_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_002(4+4CRIBI)_9_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_2_L3_002(4+4CRIBI)_9_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_3_L3_001(4+4M)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_3_L3_001(4+4M)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_3_L3_001(4+4M)_3_4_LL.png
+
+Stats length less than 20
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_3_L3_002(4+4)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_3_L3_002(4+4)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_3_L3_002(4+4)_2_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_3_L3_002(4+4)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6378_3_L3_002(4+4)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3(4+3)_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_001(4+3)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_001(4+3)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_001(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_001(4+3)_3_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_001(4+3)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_001(4+3)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_002(4+3)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_002(4+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_002(4+3)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_002(4+3)_3_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_002(4+3)_3_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_002(4+3)_3_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_002(4+3)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_3_L3_002(4+3)_4_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_001(4+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_001(4+4)_3_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_001(4+4)_4_11_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_001(4+4)_4_7_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_001(4+4)_5_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_001(4+4)_5_11_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_002(4+4)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_002(4+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_002(4+4)_4_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_002(4+4)_5_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_002(4+4)_5_11_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_002(4+4)_5_8_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_002(4+4)_6_10_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_002(4+4)_6_12_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6537_5_L3_002(4+4)_7_11_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_1_L3_002(5)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_1_L3_003(5)_10_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_1_L3_003(5)_3_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_1_L3_003(5)_4_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_1_L3_003(5)_5_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_1_L3_003(5)_7_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_1_L3_003(5)_8_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_1_L3_004(5)_6_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_1_L3_004(5)_7_1_LL.png
+
+1150 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_2_L3_010(4+4PN)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_4_L3_004(4+4PN)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_4_L3_004(4+4PN)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_4_L3_007(4+4PN)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_4_L3_011(4+4PN)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_4_L3_014(5+5)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_4_L3_014(5+5)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_5_L3_001(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_5_L3_005(5+5)_2_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_5_L3_006(5+5)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_5_L3_010(5+5)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_5_L3_012(4+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_5_L3_012(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_5_L3_013(4+4)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_5_L3_013(4+4)_2_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_5_L3_017(4+4)_1_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_6_L3_002(4+5PN)_1_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_6_L3_004(4+5PN)_1_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_6_L3_004(4+5PN)_2_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_6_L3_004(4+5PN)_3_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-6701_6_L3_004(4+5PN)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_004(4+3)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_004(4+3)_4_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_005(4+3)_4_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_005(4+3)_6_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_005(4+3)_6_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_005(4+3)_8_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_12_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_14_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_16_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_17_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_18_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_18_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_19_4_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_1_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_1_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_20_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_5_5_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_5_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_8_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_4_L3_006(4+3)_9_6_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_5_L1_001(3+4)_14_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_5_L1_002(3+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_5_L1_002(3+4)_5_9_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_5_L1_003(3+4)_14_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_5_L1_003(3+4)_15_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_5_L1_003(3+4)_8_3_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_5_L1_004(3+4)_3_1_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_5_L1_004(3+4)_3_2_LL.png
+
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_5_L1_004(3+4)_4_1_LL.png
+
+1200 / 1200
+
+writeout =
+
+/home/ingn/mzmo/data/nuclei/indiv.fixed64.pick20.nodilate/LL0/SP_12-852_5_L1_004(3+4)_4_9_LL.png
+

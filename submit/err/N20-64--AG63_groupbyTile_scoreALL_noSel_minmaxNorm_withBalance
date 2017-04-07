@@ -1,0 +1,10 @@
+/home/ingn/miniconda2/lib/python2.7/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+Traceback (most recent call last):
+  File "/home/ingn/mzmo/code/cross-val/analyze.py", line 641, in <module>
+    m0, m1, summaryfile, infostring = parse_args(sys.argv)
+  File "/home/ingn/mzmo/code/cross-val/analyze.py", line 632, in parse_args
+    os.remove(summaryfile)
+OSError: [Errno 2] No such file or directory: '/home/ingn/mzmo/analysis/nuclei/features/report/N20-64--AG63_groupbyTile_scoreALL_noSel_minmaxNorm_withBalance.csv'
+/home/ingn/miniconda2/lib/python2.7/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)

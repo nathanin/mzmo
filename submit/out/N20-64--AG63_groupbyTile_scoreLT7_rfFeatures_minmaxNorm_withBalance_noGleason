@@ -1,0 +1,1939 @@
+package importing successful
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M0_64__AG63.p
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M1_64__AG63.p
+Excluding hard-coded case strings:
+Data: 64808
+Before filtering: None
+Filtering out points where case is 03-161
+Filtered out 600 points
+
+Filtering out points where case is 08-6659
+Filtered out 600 points
+
+Filtering out points where case is 09-7198
+Filtered out 600 points
+
+Filtering out points where case is 10-8604
+Filtered out 600 points
+
+Filtering out points where case is 11-1997
+Filtered out 600 points
+
+Filtering out points where case is 11-2605
+Filtered out 600 points
+
+Filtering out points where case is 12-7319
+Filtered out 599 points
+
+Filtering out points where case is 12-7463
+Filtered out 600 points
+
+Filtering out points where case is 15-7629
+Filtered out 600 points
+
+Data: 59409
+After filtering: None
+Filtering out points where grade is SC
+Filtered out 1624 points
+
+Filtering out points where grade is NE
+Filtered out 500 points
+
+Using cases where score <= 7
+Data: 57285
+Before filtering: None
+Filtering out points where grade is 5
+Filtered out 340 points
+
+Filtering out points where grade is 5 5
+Filtered out 0 points
+
+Filtering out points where grade is 5+5
+Filtered out 22827 points
+
+Filtering out points where grade is 5+3
+Filtered out 1100 points
+
+Filtering out points where grade is 5_5
+Filtered out 220 points
+
+Filtering out points where grade is 5+4
+Filtered out 400 points
+
+Filtering out points where grade is 4+5
+Filtered out 8771 points
+
+Filtering out points where grade is 4+4
+Filtered out 10257 points
+
+Filtering out points where grade is 3,4+5
+Filtered out 300 points
+
+Filtering out points where grade is 3+4+5
+Filtered out 300 points
+
+Data: 12770
+After filtering: None
+Grouping tiles together by averaging
+length gathered = 639
+Creating new dataset from 639 tiles
+Using random forest selected features
+After filtering, data is (24,)
+For normalization, built x: (639, 24)
+For normalization, built y: (639,)
+Scaling features to [0,1]
+Dataset.data[0] = (24,)
+Dataset cases: 
+03-133
+03-2404
+03-3635
+03-40083
+03-40161
+05-1701
+05-3047
+05-40269
+05-40491
+05-416
+06-140
+06-40427
+06-40703
+06-4175
+07-1292
+07-1376
+07-2369
+08-1364
+08-6431
+09-4120
+09-4281
+09-5023
+10-3726
+10-4887
+10-6382
+11-1395
+11-1404
+11-1724
+11-1887
+11-2260
+11-3796
+11-5999
+11-8638
+12-1763
+12-2190
+12-2338
+12-2672
+12-2869
+12-3640
+12-4104
+12-4317
+12-4699
+12-5063
+12-6050
+12-6537
+12-852
+Dataset grades: 
+3
+3+3
+3+4
+3+5
+4
+4+3
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (0)
+Holding out 03-133
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+03-133,1,0.791540616246,0.0398526107846,0.266666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (1)
+Holding out 03-2404
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 201
+1: 193
+Final x: (394, 24)
+Final x_held: (30, 24)
+03-2404,1,0.764102564103,0.0656028364787,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (2)
+Holding out 03-3635
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+0: 231
+1: 215
+Final x: (446, 24)
+Final x_held: (8, 24)
+03-3635,1,0.751260923845,0.14813354396,0.25
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (3)
+Holding out 03-40083
+Dataset with 639 cases
+Split into 625 training
+Split into 14 held-out
+0: 231
+1: 209
+Final x: (440, 24)
+Final x_held: (14, 24)
+03-40083,1,0.765909090909,0.0619917349863,0.714285714286
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (4)
+Holding out 03-40161
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+03-40161,1,0.768389513109,0.0491717557971,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (5)
+Holding out 05-1701
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+05-1701,1,0.78606741573,0.0712823899212,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (6)
+Holding out 05-3047
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+05-3047,1,0.759325842697,0.0632846062547,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (7)
+Holding out 05-40269
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 231
+1: 213
+Final x: (444, 24)
+Final x_held: (10, 24)
+05-40269,1,0.792849846782,0.0698827405402,0.5
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (8)
+Holding out 05-40491
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+0: 214
+1: 203
+Final x: (417, 24)
+Final x_held: (20, 24)
+05-40491,1,0.724096385542,0.0801491064986,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (9)
+Holding out 05-416
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 231
+1: 213
+Final x: (444, 24)
+Final x_held: (10, 24)
+05-416,1,0.786031664964,0.0246931291309,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (10)
+Holding out 06-140
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+06-140,1,0.784369747899,0.0549004172881,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (11)
+Holding out 06-40427
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 241
+1: 223
+Final x: (464, 24)
+Final x_held: (5, 24)
+06-40427,0,0.782211313698,0.0889125835216,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (12)
+Holding out 06-40703
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+06-40703,0,0.811419015767,0.101441169477,0.266666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (13)
+Holding out 06-4175
+Dataset with 639 cases
+Split into 614 training
+Split into 25 held-out
+0: 214
+1: 198
+Final x: (412, 24)
+Final x_held: (25, 24)
+06-4175,1,0.774052306788,0.126927954325,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (14)
+Holding out 07-1292
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+07-1292,0,0.794015895278,0.0891412696959,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (15)
+Holding out 07-1376
+Dataset with 639 cases
+Split into 623 training
+Split into 16 held-out
+0: 214
+1: 207
+Final x: (421, 24)
+Final x_held: (16, 24)
+07-1376,1,0.776722689076,0.0408949771456,0.6875
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (16)
+Holding out 07-2369
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 231
+1: 213
+Final x: (444, 24)
+Final x_held: (10, 24)
+07-2369,1,0.806358529111,0.0285547932989,0.7
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (17)
+Holding out 08-1364
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+08-1364,1,0.757378277154,0.0649713798818,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (18)
+Holding out 08-6431
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+08-6431,1,0.784425770308,0.0421348109499,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (19)
+Holding out 09-4120
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+09-4120,0,0.761407199626,0.116483732793,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (20)
+Holding out 09-4281
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+09-4281,0,0.724637681159,0.0899251713478,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (21)
+Holding out 09-5023
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+0: 235
+1: 223
+Final x: (458, 24)
+Final x_held: (20, 24)
+09-5023,0,0.762422360248,0.164355853947,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (22)
+Holding out 10-3726
+Dataset with 639 cases
+Split into 627 training
+Split into 12 held-out
+0: 239
+1: 223
+Final x: (462, 24)
+Final x_held: (12, 24)
+10-3726,0,0.77713884993,0.102227203742,0.833333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (23)
+Holding out 10-4887
+Dataset with 639 cases
+Split into 637 training
+Split into 2 held-out
+0: 242
+1: 223
+Final x: (465, 24)
+Final x_held: (2, 24)
+10-4887,0,0.765591397849,0.142260949751,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (24)
+Holding out 10-6382
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+10-6382,0,0.765778401122,0.0825025451622,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (25)
+Holding out 11-1395
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+11-1395,1,0.77487394958,0.111558552668,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (26)
+Holding out 11-1404
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+0: 239
+1: 223
+Final x: (462, 24)
+Final x_held: (8, 24)
+11-1404,0,0.775011687705,0.0908275876606,0.875
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (27)
+Holding out 11-1724
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+11-1724,0,0.809139784946,0.0555615329566,0.466666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (28)
+Holding out 11-1887
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-1887,0,0.759420289855,0.106952201319,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (29)
+Holding out 11-2260
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+11-2260,0,0.754885460496,0.0842239571467,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (30)
+Holding out 11-3796
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-3796,0,0.787330528284,0.0743353591858,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (31)
+Holding out 11-5999
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-5999,0,0.820032725573,0.0581493358962,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (32)
+Holding out 11-8638
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-8638,0,0.809163160355,0.0646385474605,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (33)
+Holding out 12-1763
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+12-1763,0,0.767905563347,0.102409948092,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (34)
+Holding out 12-2190
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+12-2190,0,0.767534639274,0.0580926864922,0.433333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (35)
+Holding out 12-2338
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 241
+1: 223
+Final x: (464, 24)
+Final x_held: (5, 24)
+12-2338,0,0.77587657784,0.0784224037166,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (36)
+Holding out 12-2672
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+0: 235
+1: 223
+Final x: (458, 24)
+Final x_held: (20, 24)
+12-2672,0,0.76005733397,0.0983559624631,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (37)
+Holding out 12-2869
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-2869,0,0.767952314165,0.0700467993381,0.866666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (38)
+Holding out 12-3640
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-3640,0,0.761407199626,0.0656178335587,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (39)
+Holding out 12-4104
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+12-4104,0,0.756545628285,0.0432799750209,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (40)
+Holding out 12-4317
+Dataset with 639 cases
+Split into 630 training
+Split into 9 held-out
+0: 239
+1: 223
+Final x: (462, 24)
+Final x_held: (9, 24)
+12-4317,0,0.761991584853,0.0775513641701,0.888888888889
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (41)
+Holding out 12-4699
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-4699,0,0.761477325853,0.0951697162362,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (42)
+Holding out 12-5063
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+12-5063,0,0.761407199626,0.026721108908,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (43)
+Holding out 12-6050
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+12-6050,0,0.769962599345,0.0924167306624,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (44)
+Holding out 12-6537
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-6537,0,0.761337073399,0.0557617921364,0.0666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (45)
+Holding out 12-852
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+12-852,0,0.789536550406,0.108343675456,0.466666666667
+
+package importing successful
+Found existing version of /home/ingn/mzmo/analysis/nuclei/features/report/N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason.csv
+Cleaned it up
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M0_64__AG63.p
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M1_64__AG63.p
+Excluding hard-coded case strings:
+Data: 64808
+Before filtering: None
+Filtering out points where case is 03-161
+Filtered out 600 points
+
+Filtering out points where case is 08-6659
+Filtered out 600 points
+
+Filtering out points where case is 09-7198
+Filtered out 600 points
+
+Filtering out points where case is 10-8604
+Filtered out 600 points
+
+Filtering out points where case is 11-1997
+Filtered out 600 points
+
+Filtering out points where case is 11-2605
+Filtered out 600 points
+
+Filtering out points where case is 12-7319
+Filtered out 599 points
+
+Filtering out points where case is 12-7463
+Filtered out 600 points
+
+Filtering out points where case is 15-7629
+Filtered out 600 points
+
+Data: 59409
+After filtering: None
+Filtering out points where grade is SC
+Filtered out 1624 points
+
+Filtering out points where grade is NE
+Filtered out 500 points
+
+Using cases where score <= 7
+Data: 57285
+Before filtering: None
+Filtering out points where grade is 5
+Filtered out 340 points
+
+Filtering out points where grade is 5 5
+Filtered out 0 points
+
+Filtering out points where grade is 5+5
+Filtered out 22827 points
+
+Filtering out points where grade is 5+3
+Filtered out 1100 points
+
+Filtering out points where grade is 5_5
+Filtered out 220 points
+
+Filtering out points where grade is 5+4
+Filtered out 400 points
+
+Filtering out points where grade is 4+5
+Filtered out 8771 points
+
+Filtering out points where grade is 4+4
+Filtered out 10257 points
+
+Filtering out points where grade is 3,4+5
+Filtered out 300 points
+
+Filtering out points where grade is 3+4+5
+Filtered out 300 points
+
+Data: 12770
+After filtering: None
+Grouping tiles together by averaging
+length gathered = 639
+Creating new dataset from 639 tiles
+Using random forest selected features
+After filtering, data is (24,)
+For normalization, built x: (639, 24)
+For normalization, built y: (639,)
+Scaling features to [0,1]
+Dataset.data[0] = (24,)
+Dataset cases: 
+03-133
+03-2404
+03-3635
+03-40083
+03-40161
+05-1701
+05-3047
+05-40269
+05-40491
+05-416
+06-140
+06-40427
+06-40703
+06-4175
+07-1292
+07-1376
+07-2369
+08-1364
+08-6431
+09-4120
+09-4281
+09-5023
+10-3726
+10-4887
+10-6382
+11-1395
+11-1404
+11-1724
+11-1887
+11-2260
+11-3796
+11-5999
+11-8638
+12-1763
+12-2190
+12-2338
+12-2672
+12-2869
+12-3640
+12-4104
+12-4317
+12-4699
+12-5063
+12-6050
+12-6537
+12-852
+Dataset grades: 
+3
+3+3
+3+4
+3+5
+4
+4+3
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (0)
+Holding out 03-133
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+03-133,1,0.75350140056,0.0779358093592,0.333333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (1)
+Holding out 03-2404
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 201
+1: 193
+Final x: (394, 24)
+Final x_held: (30, 24)
+03-2404,1,0.746153846154,0.0895762244019,0.5
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (2)
+Holding out 03-3635
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+0: 231
+1: 215
+Final x: (446, 24)
+Final x_held: (8, 24)
+03-3635,1,0.775730337079,0.102896812737,0.5
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (3)
+Holding out 03-40083
+Dataset with 639 cases
+Split into 625 training
+Split into 14 held-out
+0: 231
+1: 209
+Final x: (440, 24)
+Final x_held: (14, 24)
+03-40083,1,0.770454545455,0.0334021328561,0.714285714286
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (4)
+Holding out 03-40161
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+03-40161,1,0.777228464419,0.0516757667128,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (5)
+Holding out 05-1701
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+05-1701,1,0.752734082397,0.0611244114737,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (6)
+Holding out 05-3047
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+05-3047,1,0.766117353308,0.0945650287665,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (7)
+Holding out 05-40269
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 231
+1: 213
+Final x: (444, 24)
+Final x_held: (10, 24)
+05-40269,1,0.795045965271,0.0672294451669,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (8)
+Holding out 05-40491
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+0: 214
+1: 203
+Final x: (417, 24)
+Final x_held: (20, 24)
+05-40491,1,0.759954102123,0.0855634257394,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (9)
+Holding out 05-416
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 231
+1: 213
+Final x: (444, 24)
+Final x_held: (10, 24)
+05-416,1,0.817620020429,0.0792084613494,0.9
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (10)
+Holding out 06-140
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+06-140,1,0.767843137255,0.0793029998322,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (11)
+Holding out 06-40427
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 241
+1: 223
+Final x: (464, 24)
+Final x_held: (5, 24)
+06-40427,0,0.77360916316,0.101887828236,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (12)
+Holding out 06-40703
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+06-40703,0,0.782895365504,0.0766089981524,0.233333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (13)
+Holding out 06-4175
+Dataset with 639 cases
+Split into 614 training
+Split into 25 held-out
+0: 214
+1: 198
+Final x: (412, 24)
+Final x_held: (25, 24)
+06-4175,1,0.776638260359,0.0739025207588,0.48
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (14)
+Holding out 07-1292
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+07-1292,0,0.774590930341,0.104602863532,0.0666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (15)
+Holding out 07-1376
+Dataset with 639 cases
+Split into 623 training
+Split into 16 held-out
+0: 214
+1: 207
+Final x: (421, 24)
+Final x_held: (16, 24)
+07-1376,1,0.781456582633,0.0685162535935,0.6875
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (16)
+Holding out 07-2369
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 231
+1: 213
+Final x: (444, 24)
+Final x_held: (10, 24)
+07-2369,1,0.777196118488,0.0783676204224,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (17)
+Holding out 08-1364
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+08-1364,1,0.775056179775,0.0293980956788,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (18)
+Holding out 08-6431
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+08-6431,1,0.796218487395,0.0779967952335,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (19)
+Holding out 09-4120
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+09-4120,0,0.774403927069,0.0442864753197,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (20)
+Holding out 09-4281
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+09-4281,0,0.765871902758,0.112296341015,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (21)
+Holding out 09-5023
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+0: 235
+1: 223
+Final x: (458, 24)
+Final x_held: (20, 24)
+09-5023,0,0.779765886288,0.133092771416,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (22)
+Holding out 10-3726
+Dataset with 639 cases
+Split into 627 training
+Split into 12 held-out
+0: 239
+1: 223
+Final x: (462, 24)
+Final x_held: (12, 24)
+10-3726,0,0.790112201964,0.0712919166403,0.583333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (23)
+Holding out 10-4887
+Dataset with 639 cases
+Split into 637 training
+Split into 2 held-out
+0: 242
+1: 223
+Final x: (465, 24)
+Final x_held: (2, 24)
+10-4887,0,0.778494623656,0.0501587259772,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (24)
+Holding out 10-6382
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+10-6382,0,0.796049555867,0.0610902799113,0.7
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (25)
+Holding out 11-1395
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+11-1395,1,0.770420168067,0.110064203031,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (26)
+Holding out 11-1404
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+0: 239
+1: 223
+Final x: (462, 24)
+Final x_held: (8, 24)
+11-1404,0,0.759747545582,0.0765858598265,0.75
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (27)
+Holding out 11-1724
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+11-1724,0,0.789597942964,0.070763413419,0.266666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (28)
+Holding out 11-1887
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-1887,0,0.752828424497,0.0738755238904,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (29)
+Holding out 11-2260
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+11-2260,0,0.77889200561,0.113141751471,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (30)
+Holding out 11-3796
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-3796,0,0.783099579243,0.0867329615,0.3
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (31)
+Holding out 11-5999
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-5999,0,0.770149602618,0.0621106392832,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (32)
+Holding out 11-8638
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-8638,0,0.824216923796,0.0910505040274,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (33)
+Holding out 12-1763
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+12-1763,0,0.776531089294,0.0879761710436,0.1
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (34)
+Holding out 12-2190
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+12-2190,0,0.798088867654,0.0916160249749,0.433333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (35)
+Holding out 12-2338
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 241
+1: 223
+Final x: (464, 24)
+Final x_held: (5, 24)
+12-2338,0,0.767274427302,0.0548637134728,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (36)
+Holding out 12-2672
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+0: 235
+1: 223
+Final x: (458, 24)
+Final x_held: (20, 24)
+12-2672,0,0.759913999044,0.0734041839272,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (37)
+Holding out 12-2869
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-2869,0,0.757199625993,0.101576263316,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (38)
+Holding out 12-3640
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-3640,0,0.75049088359,0.0818870173791,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (39)
+Holding out 12-4104
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+12-4104,0,0.796010511228,0.072105746948,0.433333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (40)
+Holding out 12-4317
+Dataset with 639 cases
+Split into 630 training
+Split into 9 held-out
+0: 239
+1: 223
+Final x: (462, 24)
+Final x_held: (9, 24)
+12-4317,0,0.777162225339,0.0678651533059,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (41)
+Holding out 12-4699
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-4699,0,0.772136512389,0.0833429026043,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (42)
+Holding out 12-5063
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+12-5063,0,0.767928938756,0.0518627794158,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (43)
+Holding out 12-6050
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+12-6050,0,0.774287050023,0.106710255521,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (44)
+Holding out 12-6537
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-6537,0,0.79824684432,0.0450396032904,0.0666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (45)
+Holding out 12-852
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+12-852,0,0.77419971333,0.0433814413711,0.3
+
+package importing successful
+Found existing version of /home/ingn/mzmo/analysis/nuclei/features/report/N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason.csv
+Cleaned it up
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M0_64__AG63.p
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M1_64__AG63.p
+Excluding hard-coded case strings:
+Data: 64808
+Before filtering: None
+Filtering out points where case is 03-161
+Filtered out 600 points
+
+Filtering out points where case is 08-6659
+Filtered out 600 points
+
+Filtering out points where case is 09-7198
+Filtered out 600 points
+
+Filtering out points where case is 10-8604
+Filtered out 600 points
+
+Filtering out points where case is 11-1997
+Filtered out 600 points
+
+Filtering out points where case is 11-2605
+Filtered out 600 points
+
+Filtering out points where case is 12-7319
+Filtered out 599 points
+
+Filtering out points where case is 12-7463
+Filtered out 600 points
+
+Filtering out points where case is 15-7629
+Filtered out 600 points
+
+Data: 59409
+After filtering: None
+Filtering out points where grade is SC
+Filtered out 1624 points
+
+Filtering out points where grade is NE
+Filtered out 500 points
+
+Using cases where score <= 7
+Data: 57285
+Before filtering: None
+Filtering out points where grade is 5
+Filtered out 340 points
+
+Filtering out points where grade is 5 5
+Filtered out 0 points
+
+Filtering out points where grade is 5+5
+Filtered out 22827 points
+
+Filtering out points where grade is 5+3
+Filtered out 1100 points
+
+Filtering out points where grade is 5_5
+Filtered out 220 points
+
+Filtering out points where grade is 5+4
+Filtered out 400 points
+
+Filtering out points where grade is 4+5
+Filtered out 8771 points
+
+Filtering out points where grade is 4+4
+Filtered out 10257 points
+
+Filtering out points where grade is 3,4+5
+Filtered out 300 points
+
+Filtering out points where grade is 3+4+5
+Filtered out 300 points
+
+Data: 12770
+After filtering: None
+Grouping tiles together by averaging
+length gathered = 639
+Creating new dataset from 639 tiles
+Using random forest selected features
+After filtering, data is (24,)
+For normalization, built x: (639, 24)
+For normalization, built y: (639,)
+Scaling features to [0,1]
+Dataset.data[0] = (24,)
+Dataset cases: 
+03-133
+03-2404
+03-3635
+03-40083
+03-40161
+05-1701
+05-3047
+05-40269
+05-40491
+05-416
+06-140
+06-40427
+06-40703
+06-4175
+07-1292
+07-1376
+07-2369
+08-1364
+08-6431
+09-4120
+09-4281
+09-5023
+10-3726
+10-4887
+10-6382
+11-1395
+11-1404
+11-1724
+11-1887
+11-2260
+11-3796
+11-5999
+11-8638
+12-1763
+12-2190
+12-2338
+12-2672
+12-2869
+12-3640
+12-4104
+12-4317
+12-4699
+12-5063
+12-6050
+12-6537
+12-852
+Dataset grades: 
+3
+3+3
+3+4
+3+5
+4
+4+3
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (0)
+Holding out 03-133
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+03-133,1,0.763081232493,0.0789946956898,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (1)
+Holding out 03-2404
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 201
+1: 193
+Final x: (394, 24)
+Final x_held: (30, 24)
+03-2404,1,0.753748782863,0.100068572309,0.566666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (2)
+Holding out 03-3635
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+0: 231
+1: 215
+Final x: (446, 24)
+Final x_held: (8, 24)
+03-3635,1,0.76252184769,0.124655878322,0.375
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (3)
+Holding out 03-40083
+Dataset with 639 cases
+Split into 625 training
+Split into 14 held-out
+0: 231
+1: 209
+Final x: (440, 24)
+Final x_held: (14, 24)
+03-40083,1,0.795454545455,0.0658698943009,0.642857142857
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (4)
+Holding out 03-40161
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+03-40161,1,0.759525593009,0.0674958417985,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (5)
+Holding out 05-1701
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+05-1701,1,0.75720349563,0.0364791871209,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (6)
+Holding out 05-3047
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+05-3047,1,0.768414481898,0.0795468156075,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (7)
+Holding out 05-40269
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 231
+1: 213
+Final x: (444, 24)
+Final x_held: (10, 24)
+05-40269,1,0.792875383044,0.0876486039955,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (8)
+Holding out 05-40491
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+0: 214
+1: 203
+Final x: (417, 24)
+Final x_held: (20, 24)
+05-40491,1,0.755393000574,0.0912753464248,0.85
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (9)
+Holding out 05-416
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 231
+1: 213
+Final x: (444, 24)
+Final x_held: (10, 24)
+05-416,1,0.781613891726,0.0635522802595,0.7
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (10)
+Holding out 06-140
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+06-140,1,0.755910364146,0.0667185260715,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (11)
+Holding out 06-40427
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 241
+1: 223
+Final x: (464, 24)
+Final x_held: (5, 24)
+06-40427,0,0.760752688172,0.0918710080142,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (12)
+Holding out 06-40703
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+06-40703,0,0.780793119924,0.0833818960799,0.333333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (13)
+Holding out 06-4175
+Dataset with 639 cases
+Split into 614 training
+Split into 25 held-out
+0: 214
+1: 198
+Final x: (412, 24)
+Final x_held: (25, 24)
+06-4175,1,0.779047898913,0.0783848434409,0.48
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (14)
+Holding out 07-1292
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+07-1292,0,0.783052828424,0.0730395918311,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (15)
+Holding out 07-1376
+Dataset with 639 cases
+Split into 623 training
+Split into 16 held-out
+0: 214
+1: 207
+Final x: (421, 24)
+Final x_held: (16, 24)
+07-1376,1,0.750644257703,0.0789501848259,0.625
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (16)
+Holding out 07-2369
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 231
+1: 213
+Final x: (444, 24)
+Final x_held: (10, 24)
+07-2369,1,0.763508682329,0.0681944225571,0.7
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (17)
+Holding out 08-1364
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 231
+1: 218
+Final x: (449, 24)
+Final x_held: (5, 24)
+08-1364,1,0.777253433208,0.0211203487232,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (18)
+Holding out 08-6431
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+08-6431,1,0.762913165266,0.0765624467524,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (19)
+Holding out 09-4120
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+09-4120,0,0.778868630201,0.0881072472575,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (20)
+Holding out 09-4281
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+09-4281,0,0.759443665264,0.108325731456,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (21)
+Holding out 09-5023
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+0: 235
+1: 223
+Final x: (458, 24)
+Final x_held: (20, 24)
+09-5023,0,0.790707118968,0.152922864486,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (22)
+Holding out 10-3726
+Dataset with 639 cases
+Split into 627 training
+Split into 12 held-out
+0: 239
+1: 223
+Final x: (462, 24)
+Final x_held: (12, 24)
+10-3726,0,0.746774193548,0.119969886859,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (23)
+Holding out 10-4887
+Dataset with 639 cases
+Split into 637 training
+Split into 2 held-out
+0: 242
+1: 223
+Final x: (465, 24)
+Final x_held: (2, 24)
+10-4887,0,0.767741935484,0.0291713117554,0.5
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (24)
+Holding out 10-6382
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+10-6382,0,0.759209911173,0.0216069718436,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (25)
+Holding out 11-1395
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 214
+1: 208
+Final x: (422, 24)
+Final x_held: (15, 24)
+11-1395,1,0.770336134454,0.0747972383872,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (26)
+Holding out 11-1404
+Dataset with 639 cases
+Split into 631 training
+Split into 8 held-out
+0: 239
+1: 223
+Final x: (462, 24)
+Final x_held: (8, 24)
+11-1404,0,0.772744273025,0.093795074844,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (27)
+Holding out 11-1724
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+11-1724,0,0.752828424497,0.110737915981,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (28)
+Holding out 11-1887
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-1887,0,0.76582515194,0.0956533163993,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (29)
+Holding out 11-2260
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+11-2260,0,0.789644693782,0.0991526770692,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (30)
+Holding out 11-3796
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-3796,0,0.793922393642,0.104724587555,0.4
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (31)
+Holding out 11-5999
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-5999,0,0.785273492286,0.0367627340681,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (32)
+Holding out 11-8638
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+11-8638,0,0.787470780739,0.0902157067995,0.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (33)
+Holding out 12-1763
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+12-1763,0,0.750537634409,0.0836597497881,0.2
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (34)
+Holding out 12-2190
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+12-2190,0,0.776301958911,0.106502383353,0.433333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (35)
+Holding out 12-2338
+Dataset with 639 cases
+Split into 634 training
+Split into 5 held-out
+0: 241
+1: 223
+Final x: (464, 24)
+Final x_held: (5, 24)
+12-2338,0,0.765170640486,0.103290153464,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (36)
+Holding out 12-2672
+Dataset with 639 cases
+Split into 619 training
+Split into 20 held-out
+0: 235
+1: 223
+Final x: (458, 24)
+Final x_held: (20, 24)
+12-2672,0,0.786072623029,0.0651423554449,0.75
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (37)
+Holding out 12-2869
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-2869,0,0.787353903693,0.0837322162076,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (38)
+Holding out 12-3640
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-3640,0,0.774357176251,0.0711563117425,1.0
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (39)
+Holding out 12-4104
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+12-4104,0,0.767630195891,0.0956959805525,0.566666666667
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (40)
+Holding out 12-4317
+Dataset with 639 cases
+Split into 630 training
+Split into 9 held-out
+0: 239
+1: 223
+Final x: (462, 24)
+Final x_held: (9, 24)
+12-4317,0,0.805306217859,0.122717326692,0.555555555556
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (41)
+Holding out 12-4699
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-4699,0,0.757012622721,0.0857927829019,0.6
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (42)
+Holding out 12-5063
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+12-5063,0,0.767905563347,0.0771423065796,0.1
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (43)
+Holding out 12-6050
+Dataset with 639 cases
+Split into 629 training
+Split into 10 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (10, 24)
+12-6050,0,0.746119682094,0.0538668842442,0.8
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (44)
+Holding out 12-6537
+Dataset with 639 cases
+Split into 624 training
+Split into 15 held-out
+0: 238
+1: 223
+Final x: (461, 24)
+Final x_held: (15, 24)
+12-6537,0,0.767882187938,0.0356169444236,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreLT7_rfFeatures_minmaxNorm_withBalance_noGleason (45)
+Holding out 12-852
+Dataset with 639 cases
+Split into 609 training
+Split into 30 held-out
+0: 233
+1: 223
+Final x: (456, 24)
+Final x_held: (30, 24)
+12-852,0,0.802723363593,0.127447024055,0.5
+

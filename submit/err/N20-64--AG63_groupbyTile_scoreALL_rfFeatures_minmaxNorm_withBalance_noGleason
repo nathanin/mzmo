@@ -1,0 +1,8 @@
+/home/ingn/miniconda2/lib/python2.7/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/home/ingn/miniconda2/lib/python2.7/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/home/ingn/miniconda2/lib/python2.7/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/home/ingn/miniconda2/lib/python2.7/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)

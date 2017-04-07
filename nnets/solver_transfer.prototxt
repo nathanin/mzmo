@@ -1,0 +1,23 @@
+#net: "models/bvlc_alexnet/train_val.prototxt"
+#net: "/home/ubuntu/mzmo/code/train_val.prototxt"
+net: "/home/nathan/mzmo/code/train_val_transfer.prototxt"
+
+test_iter: 120
+test_interval: 370
+
+base_lr: 0.0005
+lr_policy: "step"
+
+gamma: 0.1
+stepsize: 10000
+
+display: 20
+max_iter: 60000
+
+momentum: 0.9
+weight_decay: 0.0005
+
+snapshot: 5000
+snapshot_prefix: "/home/nathan/mzmo/weights/transfer_alexnet_jan10"
+solver_mode: GPU
+

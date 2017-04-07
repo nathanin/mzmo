@@ -1,0 +1,110 @@
+
+// -------- DEC 21, 2016 -------- //
+/home/nathan/mzmo/code/_PROJECT_DIARY.txt
+
+For segmentation:
+
+data:
+
+[project]/data/m0_ready/ [images]
+
+output:
+
+[project]/segmentation/m0/
+	> rgb/ [images]
+	> probability/ [images_class1], [images_class2], etc.
+	> labels/ [images]
+
+// ---------------------------------------------------------------------------
+Goal: // ------- DEC 22
+
+	1. M0 / M1 prediction for each tile;
+
+
+	2. M0 / M1 prediction from Only epithelial nuclei;
+
+
+	3. M0 / M1 prediction rate from whole tiles, weighting the tumourous areas;
+
+Status:
+
+	1. Trained AlexNet naiively for binary classificaiton. Within 4,000 iterations, at 156 tile batch-size, testing rate on a held-out testing set was steady at ~85%. This is per-tile classification as M0 or M1. No attempt was made to consolidate tiles belonging to a single case.
+		Further attempts reveal a problem: The model is over-fitting to the training data. 
+		Solution 1: Re-partition data to 40/30/30. 
+		Solution 2: Artificially augment training by rotations & coloration changes. The logic for this is less intriguing that during the image-content retrieval task. It's not immediately clear, to me, why this data augmentation should mean anything for the M0/M1 classification task. The relevancy of any M0/M1 classification success must be justified for this project. 
+
+	2. High resolution segmentation shows moderate success. 
+
+Next:
+	
+	1. Create testing scripts to use on held-out images
+		-- Group images by case. Then classify. Track with a text file. 
+			/data/
+				/case1
+				/case2 ...
+
+			/tests/
+				/whole_tiles/
+					/case1.txt
+					/case2.txt ...
+
+	2. Re-train from scratch using more examples of purely stroma, and cell-sheets like grade 5 tumors with neuroendocrine differentiation.
+
+
+
+
+
+
+
+// ---------------------------------------------------------------------------
+Goals:  DEC 27
+	1. M0 / M1 prediction for each tile;
+
+
+	2. M0 / M1 prediction from Only epithelial nuclei;
+
+
+	3. M0 / M1 prediction rate from whole tiles, weighting the tumourous areas;
+
+
+
+
+For tile-based classification:
+	The problem is over-fitting. The other problem is justifying the data transformations. I think I'll just do it anyway. 
+	- Data transformations: to be implemented in a modular way: functions first. Class: data_transform
+		- Sub-dividing tiles
+		- Rotations 90 degrees
+		- Flipping horizontal and diagonal axes
+		- Coloration
+		- affine deformations -- ? NEXT - better for segmentation training. Except when the transformation would cause the content to bleed into another class. 
+
+
+
+
+
+
+
+// ---------------------------------------------------------------------------
+Goals: Jan 4, 2017 
+	1. M0 / M1 prediction for each tile;
+		- First attempts result & errors:
+			Data split by 60/20/20 routine into testing, training and validation sub-sets. Each sub-set contained equal portion of M0 to M1 tiles. No attempt was made to distribute on a case-level between these subsets. I.E. Case A may have tiles in both Training, and Testing sub-sets. Regardless, the classification accuracy during on-line testing saturated ~77%. However, over-fitting was observed after ~15,000 iterations of backpropagation. Over-fitting was defined as asymptotic approach of the training loss towards 0, while the testing loss simultaneously increases. Bad. Bad, bad. 
+		- Training plot at:
+	~/mzmo/figures/...
+		- During testing via pycaffe interface, it was observed that all results were assigned high probability of class 1. Weights from early iterations had ~97% probabilty of class 1. Weights from later iterations >10k, seem to asymptotically approach calling every image class 1. This is similar to errors experienced in the past when the issue was in the Python domain preprocessing. However, we cannot locate a likely cause this time. Going back to the data construction details might be the best option. 
+
+	2. M0 / M1 prediction from Only epithelial nuclei;
+
+
+	3. M0 / M1 prediction rate from whole tiles, weighting the tumourous areas;
+
+
+
+Next:
+	RE: Goal 1:
+		- Examine all stages of data manipulation and make sure nothing is being shuffled around. 
+		- Modify data sorting to follow 70/30 training/validation
+		- Modify data sorting to include fewer copies of each tile
+		- Pre- multiply data, then sort the images by the 70/30 method. i.e. Some rotations/alt-colors will be distributed between the sets.
+		- I found the problem: The classes are in a 2:1 ratio. Since the discrepencies are.. let's be real.. coming out of thin air, the best way to minimize the loss is to favor the class with more members. i.e. M1. 
+		

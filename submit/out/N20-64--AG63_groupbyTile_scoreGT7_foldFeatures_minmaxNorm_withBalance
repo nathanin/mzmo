@@ -1,0 +1,2422 @@
+package importing successful
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M0_64__AG63.p
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M1_64__AG63.p
+Excluding hard-coded case strings:
+Data: 64808
+Before filtering: None
+Filtering out points where case is 03-161
+Filtered out 600 points
+
+Filtering out points where case is 08-6659
+Filtered out 600 points
+
+Filtering out points where case is 09-7198
+Filtered out 600 points
+
+Filtering out points where case is 10-8604
+Filtered out 600 points
+
+Filtering out points where case is 11-1997
+Filtered out 600 points
+
+Filtering out points where case is 11-2605
+Filtered out 600 points
+
+Filtering out points where case is 12-7319
+Filtered out 599 points
+
+Filtering out points where case is 12-7463
+Filtered out 600 points
+
+Filtering out points where case is 15-7629
+Filtered out 600 points
+
+Data: 59409
+After filtering: None
+Filtering out points where grade is SC
+Filtered out 1624 points
+
+Filtering out points where grade is NE
+Filtered out 500 points
+
+Using cases where score > 7
+Data: 57285
+Before filtering: None
+Filtering out points where grade is 3+5
+Filtered out 400 points
+
+Filtering out points where grade is 4+3
+Filtered out 6232 points
+
+Filtering out points where grade is 3+4
+Filtered out 4300 points
+
+Filtering out points where grade is 3
+Filtered out 100 points
+
+Filtering out points where grade is 3+3
+Filtered out 1338 points
+
+Data: 44915
+After filtering: None
+Grouping tiles together by averaging
+length gathered = 2250
+Creating new dataset from 2250 tiles
+Using fold change based features >|0.3|
+After filtering, data is (9,)
+For normalization, built x: (2250, 9)
+For normalization, built y: (2250,)
+Scaling features to [0,1]
+Dataset.data[0] = (9,)
+Dataset cases: 
+02-2369
+02-4466
+03-133
+03-2491
+03-3635
+03-40016
+03-40083
+03-40161
+03-40509
+03-4421
+03-4422
+05-1595
+05-1701
+05-3047
+05-40269
+05-40491
+05-416
+05-4482
+06-140
+06-1438
+06-3231
+06-40427
+06-40520
+06-4102
+06-4175
+07-1292
+07-2369
+07-3240
+07-3287
+07-4896
+08-1364
+08-1963
+08-2693
+08-40328
+08-40910
+08-5082
+08-5238
+08-5919
+08-6384
+08-6431
+09-4120
+09-4281
+09-5023
+09-6243
+09-7104
+09-7819
+10-1934
+10-2311
+10-2851
+10-3043
+10-3152
+10-3726
+10-4437
+10-4490
+10-4887
+10-5599
+10-5958
+10-6120
+10-6382
+10-7526
+10-8024
+10-8175
+11-1395
+11-1404
+11-1724
+11-1887
+11-2260
+11-3796
+11-386
+11-4631
+11-5999
+11-7212
+11-8056
+11-8171
+11-8305
+11-8505
+11-8638
+12-1763
+12-1901
+12-2338
+12-2672
+12-2869
+12-2871
+12-2984
+12-3056
+12-3640
+12-4317
+12-4699
+12-5063
+12-6050
+12-6378
+12-6537
+12-6701
+16-752
+Dataset grades: 
+3+4+5
+3,4+5
+4
+4+4
+4+5
+5
+5+3
+5+4
+5+5
+5_5
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (0)
+Holding out 02-2369
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+02-2369,1,0.720872274143,0.0764707089972,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (1)
+Holding out 02-4466
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+02-4466,1,0.73707165109,0.0473848058363,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (2)
+Holding out 03-133
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+03-133,1,0.718633540373,0.0237653744965,0.4
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (3)
+Holding out 03-2491
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+03-2491,1,0.733333333333,0.0477113762469,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (4)
+Holding out 03-3635
+Dataset with 2250 cases
+Split into 2242 training
+Split into 8 held-out
+0: 788
+1: 826
+Final x: (1614, 9)
+Final x_held: (8, 9)
+03-3635,1,0.728625271619,0.0261142054291,0.25
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (5)
+Holding out 03-40016
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+03-40016,1,0.722118380062,0.0406467449976,0.266666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (6)
+Holding out 03-40083
+Dataset with 2250 cases
+Split into 2244 training
+Split into 6 held-out
+0: 788
+1: 827
+Final x: (1615, 9)
+Final x_held: (6, 9)
+03-40083,1,0.72693498452,0.0585327668017,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (7)
+Holding out 03-40161
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+03-40161,1,0.717133956386,0.0240985415649,0.76
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (8)
+Holding out 03-40509
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+03-40509,1,0.738317757009,0.0466250141654,0.766666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (9)
+Holding out 03-4421
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+03-4421,1,0.738317757009,0.0577795544891,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (10)
+Holding out 03-4422
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+03-4422,1,0.742679127726,0.0462236435913,0.333333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (11)
+Holding out 05-1595
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+05-1595,1,0.736448598131,0.0427325313383,0.566666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (12)
+Holding out 05-1701
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+05-1701,1,0.728348909657,0.0400696204132,0.28
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (13)
+Holding out 05-3047
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+05-3047,1,0.737267080745,0.0343810000077,0.733333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (14)
+Holding out 05-40269
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 788
+1: 820
+Final x: (1608, 9)
+Final x_held: (20, 9)
+05-40269,1,0.739412937056,0.0532462074426,0.45
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (15)
+Holding out 05-40491
+Dataset with 2250 cases
+Split into 2240 training
+Split into 10 held-out
+0: 788
+1: 825
+Final x: (1613, 9)
+Final x_held: (10, 9)
+05-40491,1,0.726588850643,0.0435513879171,0.4
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (16)
+Holding out 05-416
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 788
+1: 820
+Final x: (1608, 9)
+Final x_held: (20, 9)
+05-416,1,0.73258063892,0.017540962833,0.3
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (17)
+Holding out 05-4482
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+05-4482,1,0.733956386293,0.0507090092196,0.64
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (18)
+Holding out 06-140
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+06-140,1,0.709316770186,0.0386093671253,0.733333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (19)
+Holding out 06-1438
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+06-1438,1,0.695327102804,0.0434174489475,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (20)
+Holding out 06-3231
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+06-3231,1,0.71277258567,0.0164372659916,0.6
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (21)
+Holding out 06-40427
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 763
+1: 788
+Final x: (1551, 9)
+Final x_held: (25, 9)
+06-40427,0,0.730500985375,0.0465173229413,0.4
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (22)
+Holding out 06-40520
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+06-40520,0,0.707142857143,0.0524970985231,0.366666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (23)
+Holding out 06-4102
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+06-4102,1,0.732087227414,0.0336679279405,0.866666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (24)
+Holding out 06-4175
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+06-4175,1,0.717391304348,0.0495339181053,0.4
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (25)
+Holding out 07-1292
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+07-1292,0,0.715730728271,0.0400312004583,0.266666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (26)
+Holding out 07-2369
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 788
+1: 820
+Final x: (1608, 9)
+Final x_held: (20, 9)
+07-2369,1,0.736322826571,0.0699443886531,0.2
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (27)
+Holding out 07-3240
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+07-3240,1,0.720249221184,0.0494375935822,0.3
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (28)
+Holding out 07-3287
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+07-3287,0,0.733116883117,0.0264246622719,0.4
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (29)
+Holding out 07-4896
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+07-4896,1,0.717133956386,0.0282511751994,0.366666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (30)
+Holding out 08-1364
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+08-1364,1,0.730841121495,0.0430943712543,0.68
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (31)
+Holding out 08-1963
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+08-1963,0,0.72012987013,0.0282747286456,0.8
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (32)
+Holding out 08-2693
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+08-2693,1,0.71277258567,0.051438672749,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (33)
+Holding out 08-40328
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+08-40328,0,0.699350649351,0.0763477322426,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (34)
+Holding out 08-40910
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+08-40910,0,0.722077922078,0.0368703105625,0.366666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (35)
+Holding out 08-5082
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+08-5082,1,0.730841121495,0.0389295934002,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (36)
+Holding out 08-5238
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+08-5238,1,0.720249221184,0.0434174489475,0.3
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (37)
+Holding out 08-5919
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+08-5919,1,0.747663551402,0.055308015006,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (38)
+Holding out 08-6384
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+08-6384,1,0.732087227414,0.01246105919,1.0
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (39)
+Holding out 08-6431
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+08-6431,1,0.734161490683,0.0601683529854,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (40)
+Holding out 09-4120
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+09-4120,0,0.727869255345,0.0595710074915,0.2
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (41)
+Holding out 09-4281
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+09-4281,0,0.732407634964,0.0189102605968,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (42)
+Holding out 09-5023
+Dataset with 2250 cases
+Split into 2240 training
+Split into 10 held-out
+0: 778
+1: 789
+Final x: (1567, 9)
+Final x_held: (10, 9)
+09-5023,0,0.73325736147,0.0464884854874,0.3
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (43)
+Holding out 09-6243
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+09-6243,0,0.698051948052,0.0633574593125,0.466666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (44)
+Holding out 09-7104
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+09-7104,1,0.7246105919,0.0423676012461,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (45)
+Holding out 09-7819
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+09-7819,0,0.714285714286,0.0239468687202,0.366666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (46)
+Holding out 10-1934
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-1934,1,0.729595015576,0.0463578199071,0.9
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (47)
+Holding out 10-2311
+Dataset with 2250 cases
+Split into 2232 training
+Split into 18 held-out
+0: 788
+1: 821
+Final x: (1609, 9)
+Final x_held: (18, 9)
+10-2311,1,0.715346065285,0.0327104840548,0.944444444444
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (48)
+Holding out 10-2851
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-2851,1,0.738317757009,0.0490592390904,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (49)
+Holding out 10-3043
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+10-3043,1,0.735202492212,0.0233125070827,0.6
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (50)
+Holding out 10-3152
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-3152,1,0.719003115265,0.0489641936558,0.166666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (51)
+Holding out 10-3726
+Dataset with 2250 cases
+Split into 2232 training
+Split into 18 held-out
+0: 770
+1: 789
+Final x: (1559, 9)
+Final x_held: (18, 9)
+10-3726,0,0.712649435238,0.034369275963,0.777777777778
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (52)
+Holding out 10-4437
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-4437,1,0.705295950156,0.0340348916729,0.4
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (53)
+Holding out 10-4490
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-4490,1,0.733333333333,0.0604842920848,0.566666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (54)
+Holding out 10-4887
+Dataset with 2250 cases
+Split into 2222 training
+Split into 28 held-out
+0: 760
+1: 782
+Final x: (1542, 9)
+Final x_held: (28, 9)
+10-4887,0,0.728918169209,0.0365552773481,0.678571428571
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (55)
+Holding out 10-5599
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+10-5599,0,0.719480519481,0.0500632084867,0.733333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (56)
+Holding out 10-5958
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-5958,1,0.728971962617,0.0668730610093,0.266666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (57)
+Holding out 10-6120
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-6120,1,0.720249221184,0.0374661591984,0.366666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (58)
+Holding out 10-6382
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+10-6382,0,0.717845659164,0.05619195309,0.9
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (59)
+Holding out 10-7526
+Dataset with 2250 cases
+Split into 2245 training
+Split into 5 held-out
+0: 788
+1: 828
+Final x: (1616, 9)
+Final x_held: (5, 9)
+10-7526,1,0.723370790811,0.0460307420495,0.0
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (60)
+Holding out 10-8024
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+10-8024,1,0.717133956386,0.0583677927907,0.68
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (61)
+Holding out 10-8175
+Dataset with 2250 cases
+Split into 2234 training
+Split into 16 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (16, 9)
+10-8175,1,0.731055900621,0.0330070316909,0.375
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (62)
+Holding out 11-1395
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+11-1395,1,0.711180124224,0.0301738082025,1.0
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (63)
+Holding out 11-1404
+Dataset with 2250 cases
+Split into 2228 training
+Split into 22 held-out
+0: 766
+1: 788
+Final x: (1554, 9)
+Final x_held: (22, 9)
+11-1404,0,0.723943574318,0.029520135767,0.863636363636
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (64)
+Holding out 11-1724
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+11-1724,0,0.730082859263,0.0768691400431,0.75
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (65)
+Holding out 11-1887
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 763
+1: 788
+Final x: (1551, 9)
+Final x_held: (25, 9)
+11-1887,0,0.738904677938,0.0592856934932,0.92
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (66)
+Holding out 11-2260
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+11-2260,0,0.71125788482,0.0355010413635,1.0
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (67)
+Holding out 11-3796
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+11-3796,0,0.727498144942,0.068108146295,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (68)
+Holding out 11-386
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+11-386,1,0.720249221184,0.0604586141842,0.466666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (69)
+Holding out 11-4631
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+11-4631,1,0.733333333333,0.045376053473,0.266666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (70)
+Holding out 11-5999
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+11-5999,0,0.715941132822,0.0426908417014,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (71)
+Holding out 11-7212
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+11-7212,1,0.722118380062,0.0398753894081,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (72)
+Holding out 11-8056
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+11-8056,1,0.708411214953,0.036457916108,0.166666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (73)
+Holding out 11-8171
+Dataset with 2250 cases
+Split into 2231 training
+Split into 19 held-out
+0: 788
+1: 820
+Final x: (1608, 9)
+Final x_held: (19, 9)
+11-8171,1,0.717693156092,0.0533618516944,0.263157894737
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (74)
+Holding out 11-8305
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+11-8305,0,0.719480519481,0.0349927106112,0.833333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (75)
+Holding out 11-8505
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+11-8505,1,0.717133956386,0.0231118217956,0.766666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (76)
+Holding out 11-8638
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+11-8638,0,0.723639624042,0.0264605139543,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (77)
+Holding out 12-1763
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+12-1763,0,0.733271498062,0.0440234364493,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (78)
+Holding out 12-1901
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+12-1901,1,0.720872274143,0.0604842920848,0.1
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (79)
+Holding out 12-2338
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 763
+1: 788
+Final x: (1551, 9)
+Final x_held: (25, 9)
+12-2338,0,0.727907893372,0.048923189504,0.68
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (80)
+Holding out 12-2672
+Dataset with 2250 cases
+Split into 2240 training
+Split into 10 held-out
+0: 778
+1: 789
+Final x: (1567, 9)
+Final x_held: (10, 9)
+12-2672,0,0.730693311084,0.0364721264187,0.8
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (81)
+Holding out 12-2869
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+12-2869,0,0.737488735971,0.0529863966207,0.733333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (82)
+Holding out 12-2871
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+12-2871,1,0.714641744548,0.0383266205588,0.4
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (83)
+Holding out 12-2984
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+12-2984,1,0.715887850467,0.0430583240951,0.833333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (84)
+Holding out 12-3056
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+12-3056,1,0.717133956386,0.0382860847246,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (85)
+Holding out 12-3640
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+12-3640,0,0.740740968297,0.04225977786,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (86)
+Holding out 12-4317
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+12-4317,0,0.731744081265,0.0408185692608,0.733333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (87)
+Holding out 12-4699
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+12-4699,0,0.724684607193,0.0503604287675,0.333333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (88)
+Holding out 12-5063
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+12-5063,0,0.713974771209,0.0637849255115,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (89)
+Holding out 12-6050
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+12-6050,0,0.696669140078,0.0435870979376,0.9
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (90)
+Holding out 12-6378
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+12-6378,0,0.738311688312,0.0530086535895,0.433333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (91)
+Holding out 12-6537
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+12-6537,0,0.712521504055,0.0487836413661,0.8
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (92)
+Holding out 12-6701
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+12-6701,0,0.724675324675,0.0470768024945,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (93)
+Holding out 16-752
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+16-752,1,0.71277258567,0.0494375935822,0.166666666667
+
+package importing successful
+Found existing version of /home/ingn/mzmo/analysis/nuclei/features/report/N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance.csv
+Cleaned it up
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M0_64__AG63.p
+Populate tiles from : /home/ingn/mzmo/analysis/nuclei/features/N20_M1_64__AG63.p
+Excluding hard-coded case strings:
+Data: 64808
+Before filtering: None
+Filtering out points where case is 03-161
+Filtered out 600 points
+
+Filtering out points where case is 08-6659
+Filtered out 600 points
+
+Filtering out points where case is 09-7198
+Filtered out 600 points
+
+Filtering out points where case is 10-8604
+Filtered out 600 points
+
+Filtering out points where case is 11-1997
+Filtered out 600 points
+
+Filtering out points where case is 11-2605
+Filtered out 600 points
+
+Filtering out points where case is 12-7319
+Filtered out 599 points
+
+Filtering out points where case is 12-7463
+Filtered out 600 points
+
+Filtering out points where case is 15-7629
+Filtered out 600 points
+
+Data: 59409
+After filtering: None
+Filtering out points where grade is SC
+Filtered out 1624 points
+
+Filtering out points where grade is NE
+Filtered out 500 points
+
+Using cases where score > 7
+Data: 57285
+Before filtering: None
+Filtering out points where grade is 3+5
+Filtered out 400 points
+
+Filtering out points where grade is 4+3
+Filtered out 6232 points
+
+Filtering out points where grade is 3+4
+Filtered out 4300 points
+
+Filtering out points where grade is 3
+Filtered out 100 points
+
+Filtering out points where grade is 3+3
+Filtered out 1338 points
+
+Data: 44915
+After filtering: None
+Grouping tiles together by averaging
+length gathered = 2250
+Creating new dataset from 2250 tiles
+Using fold change based features >|0.3|
+After filtering, data is (9,)
+For normalization, built x: (2250, 9)
+For normalization, built y: (2250,)
+Scaling features to [0,1]
+Dataset.data[0] = (9,)
+Dataset cases: 
+02-2369
+02-4466
+03-133
+03-2491
+03-3635
+03-40016
+03-40083
+03-40161
+03-40509
+03-4421
+03-4422
+05-1595
+05-1701
+05-3047
+05-40269
+05-40491
+05-416
+05-4482
+06-140
+06-1438
+06-3231
+06-40427
+06-40520
+06-4102
+06-4175
+07-1292
+07-2369
+07-3240
+07-3287
+07-4896
+08-1364
+08-1963
+08-2693
+08-40328
+08-40910
+08-5082
+08-5238
+08-5919
+08-6384
+08-6431
+09-4120
+09-4281
+09-5023
+09-6243
+09-7104
+09-7819
+10-1934
+10-2311
+10-2851
+10-3043
+10-3152
+10-3726
+10-4437
+10-4490
+10-4887
+10-5599
+10-5958
+10-6120
+10-6382
+10-7526
+10-8024
+10-8175
+11-1395
+11-1404
+11-1724
+11-1887
+11-2260
+11-3796
+11-386
+11-4631
+11-5999
+11-7212
+11-8056
+11-8171
+11-8305
+11-8505
+11-8638
+12-1763
+12-1901
+12-2338
+12-2672
+12-2869
+12-2871
+12-2984
+12-3056
+12-3640
+12-4317
+12-4699
+12-5063
+12-6050
+12-6378
+12-6537
+12-6701
+16-752
+Dataset grades: 
+3+4+5
+3,4+5
+4
+4+4
+4+5
+5
+5+3
+5+4
+5+5
+5_5
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (0)
+Holding out 02-2369
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+02-2369,1,0.727725856698,0.0183139420021,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (1)
+Holding out 02-4466
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+02-4466,1,0.709034267913,0.038123510382,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (2)
+Holding out 03-133
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+03-133,1,0.724844720497,0.0424183132397,0.333333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (3)
+Holding out 03-2491
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+03-2491,1,0.722741433022,0.0239693259335,0.466666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (4)
+Holding out 03-3635
+Dataset with 2250 cases
+Split into 2242 training
+Split into 8 held-out
+0: 788
+1: 826
+Final x: (1614, 9)
+Final x_held: (8, 9)
+03-3635,1,0.719314270331,0.0420360786068,0.25
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (5)
+Holding out 03-40016
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+03-40016,1,0.714018691589,0.0421471265428,0.333333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (6)
+Holding out 03-40083
+Dataset with 2250 cases
+Split into 2244 training
+Split into 6 held-out
+0: 788
+1: 827
+Final x: (1615, 9)
+Final x_held: (6, 9)
+03-40083,1,0.723219814241,0.0454338980256,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (7)
+Holding out 03-40161
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+03-40161,1,0.713395638629,0.0367548441215,0.72
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (8)
+Holding out 03-40509
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+03-40509,1,0.732710280374,0.0566121704254,0.8
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (9)
+Holding out 03-4421
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+03-4421,1,0.709657320872,0.0443025266907,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (10)
+Holding out 03-4422
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+03-4422,1,0.729595015576,0.023445342956,0.3
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (11)
+Holding out 05-1595
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+05-1595,1,0.730218068536,0.0351569744042,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (12)
+Holding out 05-1701
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+05-1701,1,0.717757009346,0.0441621062845,0.24
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (13)
+Holding out 05-3047
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+05-3047,1,0.733540372671,0.0621614708233,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (14)
+Holding out 05-40269
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 788
+1: 820
+Final x: (1608, 9)
+Final x_held: (20, 9)
+05-40269,1,0.730074882452,0.0624761338923,0.6
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (15)
+Holding out 05-40491
+Dataset with 2250 cases
+Split into 2240 training
+Split into 10 held-out
+0: 788
+1: 825
+Final x: (1613, 9)
+Final x_held: (10, 9)
+05-40491,1,0.712974251485,0.0251153715866,0.6
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (16)
+Holding out 05-416
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 788
+1: 820
+Final x: (1608, 9)
+Final x_held: (20, 9)
+05-416,1,0.7257367311,0.0244758387891,0.25
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (17)
+Holding out 05-4482
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+05-4482,1,0.727102803738,0.0274709130032,0.56
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (18)
+Holding out 06-140
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+06-140,1,0.713043478261,0.0405585781797,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (19)
+Holding out 06-1438
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+06-1438,1,0.727725856698,0.0268997297756,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (20)
+Holding out 06-3231
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+06-3231,1,0.722118380062,0.0591605107562,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (21)
+Holding out 06-40427
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 763
+1: 788
+Final x: (1551, 9)
+Final x_held: (25, 9)
+06-40427,0,0.702134633337,0.0462588940818,0.24
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (22)
+Holding out 06-40520
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+06-40520,0,0.735714285714,0.0248456187918,0.466666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (23)
+Holding out 06-4102
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+06-4102,1,0.727102803738,0.0640987970074,0.833333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (24)
+Holding out 06-4175
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+06-4175,1,0.711801242236,0.0383688079788,0.4
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (25)
+Holding out 07-1292
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+07-1292,0,0.702945031539,0.018281763572,0.266666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (26)
+Holding out 07-2369
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 788
+1: 820
+Final x: (1608, 9)
+Final x_held: (20, 9)
+07-2369,1,0.725123352876,0.0339524506212,0.1
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (27)
+Holding out 07-3240
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+07-3240,1,0.72523364486,0.0410269847555,0.366666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (28)
+Holding out 07-3287
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+07-3287,0,0.733116883117,0.0339654463133,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (29)
+Holding out 07-4896
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+07-4896,1,0.723364485981,0.0364153001775,0.466666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (30)
+Holding out 08-1364
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+08-1364,1,0.707788161994,0.0451702653218,0.6
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (31)
+Holding out 08-1963
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+08-1963,0,0.707142857143,0.0288650789232,0.833333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (32)
+Holding out 08-2693
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+08-2693,1,0.719626168224,0.0281410337461,0.9
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (33)
+Holding out 08-40328
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+08-40328,0,0.716883116883,0.0737406211251,0.733333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (34)
+Holding out 08-40910
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+08-40910,0,0.724675324675,0.0405311338554,0.433333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (35)
+Holding out 08-5082
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+08-5082,1,0.717133956386,0.0328272644793,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (36)
+Holding out 08-5238
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+08-5238,1,0.728971962617,0.0418884394118,0.333333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (37)
+Holding out 08-5919
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+08-5919,1,0.727102803738,0.0296458000084,0.466666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (38)
+Holding out 08-6384
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+08-6384,1,0.723987538941,0.045546833352,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (39)
+Holding out 08-6431
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+08-6431,1,0.731677018634,0.0552201509836,0.4
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (40)
+Holding out 09-4120
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+09-4120,0,0.733026132547,0.0270839338976,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (41)
+Holding out 09-4281
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+09-4281,0,0.737498975997,0.0236417183535,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (42)
+Holding out 09-5023
+Dataset with 2250 cases
+Split into 2240 training
+Split into 10 held-out
+0: 778
+1: 789
+Final x: (1567, 9)
+Final x_held: (10, 9)
+09-5023,0,0.725607944486,0.0266398665511,0.3
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (43)
+Holding out 09-6243
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+09-6243,0,0.72012987013,0.0566686343617,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (44)
+Holding out 09-7104
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+09-7104,1,0.731464174455,0.0575641593144,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (45)
+Holding out 09-7819
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+09-7819,0,0.733766233766,0.0444224191597,0.333333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (46)
+Holding out 10-1934
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-1934,1,0.721495327103,0.026316152127,0.9
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (47)
+Holding out 10-2311
+Dataset with 2250 cases
+Split into 2232 training
+Split into 18 held-out
+0: 788
+1: 821
+Final x: (1609, 9)
+Final x_held: (18, 9)
+10-2311,1,0.714099959366,0.0509516757786,0.944444444444
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (48)
+Holding out 10-2851
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-2851,1,0.707788161994,0.033062926259,0.533333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (49)
+Holding out 10-3043
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+10-3043,1,0.742679127726,0.0251083385416,0.56
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (50)
+Holding out 10-3152
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-3152,1,0.718380062305,0.0349354411685,0.166666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (51)
+Holding out 10-3726
+Dataset with 2250 cases
+Split into 2232 training
+Split into 18 held-out
+0: 770
+1: 789
+Final x: (1559, 9)
+Final x_held: (18, 9)
+10-3726,0,0.726743754638,0.0151340923917,0.888888888889
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (52)
+Holding out 10-4437
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-4437,1,0.719626168224,0.0142077934592,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (53)
+Holding out 10-4490
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-4490,1,0.733956386293,0.0667103243082,0.6
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (54)
+Holding out 10-4887
+Dataset with 2250 cases
+Split into 2222 training
+Split into 28 held-out
+0: 760
+1: 782
+Final x: (1542, 9)
+Final x_held: (28, 9)
+10-4887,0,0.732818476022,0.041070374183,0.714285714286
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (55)
+Holding out 10-5599
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+10-5599,0,0.716883116883,0.0452500036109,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (56)
+Holding out 10-5958
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-5958,1,0.69968847352,0.0340348916729,0.433333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (57)
+Holding out 10-6120
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+10-6120,1,0.733956386293,0.0379193122859,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (58)
+Holding out 10-6382
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+10-6382,0,0.711445708632,0.0294648017792,0.75
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (59)
+Holding out 10-7526
+Dataset with 2250 cases
+Split into 2245 training
+Split into 5 held-out
+0: 788
+1: 828
+Final x: (1616, 9)
+Final x_held: (5, 9)
+10-7526,1,0.739473684211,0.0537274367914,0.0
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (60)
+Holding out 10-8024
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (25, 9)
+10-8024,1,0.707788161994,0.0328272644793,0.6
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (61)
+Holding out 10-8175
+Dataset with 2250 cases
+Split into 2234 training
+Split into 16 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (16, 9)
+10-8175,1,0.704347826087,0.0403296474056,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (62)
+Holding out 11-1395
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 788
+1: 822
+Final x: (1610, 9)
+Final x_held: (15, 9)
+11-1395,1,0.717391304348,0.0321544822498,1.0
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (63)
+Holding out 11-1404
+Dataset with 2250 cases
+Split into 2228 training
+Split into 22 held-out
+0: 766
+1: 788
+Final x: (1554, 9)
+Final x_held: (22, 9)
+11-1404,0,0.718153718494,0.0280768745128,0.909090909091
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (64)
+Holding out 11-1724
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+11-1724,0,0.715326902465,0.0614827470176,0.75
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (65)
+Holding out 11-1887
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 763
+1: 788
+Final x: (1551, 9)
+Final x_held: (25, 9)
+11-1887,0,0.718890156623,0.0377267134363,0.88
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (66)
+Holding out 11-2260
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+11-2260,0,0.71125788482,0.0201192499387,0.933333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (67)
+Holding out 11-3796
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+11-3796,0,0.726873608706,0.0331900031403,0.6
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (68)
+Holding out 11-386
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+11-386,1,0.717757009346,0.0776794884761,0.433333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (69)
+Holding out 11-4631
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+11-4631,1,0.705919003115,0.0643405888769,0.2
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (70)
+Holding out 11-5999
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+11-5999,0,0.721726852997,0.0359088836806,0.6
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (71)
+Holding out 11-7212
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+11-7212,1,0.71277258567,0.0499065031639,0.6
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (72)
+Holding out 11-8056
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+11-8056,1,0.7246105919,0.0528090220571,0.133333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (73)
+Holding out 11-8171
+Dataset with 2250 cases
+Split into 2231 training
+Split into 19 held-out
+0: 788
+1: 820
+Final x: (1608, 9)
+Final x_held: (19, 9)
+11-8171,1,0.712708732416,0.0505366928139,0.263157894737
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (74)
+Holding out 11-8305
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+11-8305,0,0.728571428571,0.0277326707845,0.966666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (75)
+Holding out 11-8505
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+11-8505,1,0.715264797508,0.0366702528836,0.766666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (76)
+Holding out 11-8638
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+11-8638,0,0.699210569709,0.0484620662731,0.75
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (77)
+Holding out 12-1763
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+12-1763,0,0.696038420315,0.0505996291238,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (78)
+Holding out 12-1901
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+12-1901,1,0.731464174455,0.0533647678638,0.166666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (79)
+Holding out 12-2338
+Dataset with 2250 cases
+Split into 2225 training
+Split into 25 held-out
+0: 763
+1: 788
+Final x: (1551, 9)
+Final x_held: (25, 9)
+12-2338,0,0.708561352557,0.0383548898674,0.56
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (80)
+Holding out 12-2672
+Dataset with 2250 cases
+Split into 2240 training
+Split into 10 held-out
+0: 778
+1: 789
+Final x: (1567, 9)
+Final x_held: (10, 9)
+12-2672,0,0.738350867911,0.0123146536196,0.7
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (81)
+Holding out 12-2869
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+12-2869,0,0.720199475711,0.0427947764813,0.666666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (82)
+Holding out 12-2871
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+12-2871,1,0.732710280374,0.0253545046098,0.166666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (83)
+Holding out 12-2984
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+12-2984,1,0.720872274143,0.0383266205588,0.866666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (84)
+Holding out 12-3056
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+12-3056,1,0.709657320872,0.0539435783724,0.633333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (85)
+Holding out 12-3640
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+12-3640,0,0.711270172852,0.0283678354867,0.466666666667
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (86)
+Holding out 12-4317
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+12-4317,0,0.722147128697,0.026839766234,0.8
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (87)
+Holding out 12-4699
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+12-4699,0,0.727256901778,0.0399310438683,0.4
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (88)
+Holding out 12-5063
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+12-5063,0,0.71786214857,0.0340110968279,0.5
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (89)
+Holding out 12-6050
+Dataset with 2250 cases
+Split into 2230 training
+Split into 20 held-out
+0: 768
+1: 788
+Final x: (1556, 9)
+Final x_held: (20, 9)
+12-6050,0,0.722372000989,0.058318411917,0.95
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (90)
+Holding out 12-6378
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+12-6378,0,0.720779220779,0.0383061849448,0.433333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (91)
+Holding out 12-6537
+Dataset with 2250 cases
+Split into 2235 training
+Split into 15 held-out
+0: 773
+1: 789
+Final x: (1562, 9)
+Final x_held: (15, 9)
+12-6537,0,0.707434259032,0.0148393287509,0.8
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (92)
+Holding out 12-6701
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 758
+1: 782
+Final x: (1540, 9)
+Final x_held: (30, 9)
+12-6701,0,0.722727272727,0.021963031851,0.633333333333
+
+N20-64--AG63_groupbyTile_scoreGT7_foldFeatures_minmaxNorm_withBalance (93)
+Holding out 16-752
+Dataset with 2250 cases
+Split into 2220 training
+Split into 30 held-out
+0: 788
+1: 817
+Final x: (1605, 9)
+Final x_held: (30, 9)
+16-752,1,0.732087227414,0.0533065411494,0.133333333333
+
